@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup as bs
 import urllib.request, urllib.error, urllib.parse
 import time
 
-url = 'https://www.alamatbank.com/alamat-kantor-bank-bca-di-seluruh-indonesia/'
+url = 'https://www.alamatbank.com/alamat-kantor-bank-mandiri-di-seluruh-indonesia/'
 
-label = 'Bank Bca'
+label = 'Bank Mandiri'
 resp = requests.get(url)
 html = resp.content
 soup = bs(html, 'html.parser')
@@ -17,6 +17,8 @@ kota = []
 
 cabang = []
 alamat = []
+
+print('Scraping ', label, ' has started')
 
 for x in range(len(tab)) :
     col = tab[x]
@@ -41,37 +43,20 @@ for x in range(len(tab)) :
                 tabs = link_kc.find_all(class_='responsive-tabs')'''
             
             tabs = link_kc.find_all(class_='entry-content')
-            for x in range(len(tabs)):
-                table = tabs[x].find_all('table')
-                for z in range(len(table)):
-                    td = table[z].find_all('td')
-                    raw_td = []
-                    if td[0].text == 'NO' : 
-                        td = td[4:]
-                    for q in range(len(td)):
-                        if len(td[q].text.split()) <= 2 :
-                            continue
-                        elif len(td[q].text.split('&')) == 2 :
-                            raw_td.append(td[q])
-                        elif td[q].text.split()[0].upper() == 'BANK' or td[q].text.split()[0].upper() == 'KANTOR':
-                            continue
-                        elif len(td[q].text.split()[0].split('-')) == 2 or len(td[q].text.split()[0].split('-')) == 3:
-                            continue
-                        else :
-                            raw_td.append(td[q])
-                    
-                    for w in range(0,len(raw_td),2):
-                        cabang.append(raw_td[w].text)
+            for z in range(len(tabs)):
+                tr = tabs[z].find_all('tr')
+                for q in range(len(tr)) :
+                    td = tr[q].find_all('td')
+                    if len(td) == 0 or len(td)==1 :
+                        continue
+                    else :
                         kota.append(kota_temp)
                         provinsi.append(prov_temp)
-                        #print('Kota :', kota[-1], end='\r')
-                        print('Kota :', kota[-1])
-                    for e in range(1,len(raw_td),2):
-                        alamat.append(raw_td[e].text)
-                    """for r in range(len(cabang)) :
-                        kota.append(kota_temp)
-                        provinsi.append(prov_temp)"""
-                    
+                        cabang.append(td[1].text)
+                        alamat.append(td[2].text)
+                        print('Kota :', kota[-1], end='\r')
+                        #print('Provinsi :', provinsi[-1], end='\r')
+
                     #break
                 #break
             #break
@@ -83,6 +68,7 @@ dataframe['City'] = kota
 dataframe['Provinsi'] = provinsi
 dataframe['Cabang'] = cabang
 dataframe['Alamat'] = alamat
+dataframe = dataframe.loc[dataframe['Cabang'] != 'Cabang']
 
 cabang_fix = []
 for i in range(len(dataframe['Cabang'])) :
