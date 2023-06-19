@@ -1,0 +1,1324 @@
+City,Provinsi,Cabang,Alamat
+Jakarta Pusat,DKI Jakarta,KP Jakarta Menara BTN,Gedung Menara BTN Jl. Gajah Mada No. 1 – Jakarta Pusat 10130
+Jakarta Pusat,DKI Jakarta,KC Jakarta Harmoni,Menara Bank BTN Jln. Gajah Mada No. 1 Jakarta Pusat 10130
+Jakarta Pusat,DKI Jakarta,KCP Cempaka Mas,Komp Ruko Mega Grosir Cempaka Mas Blok A No 26 Jl. Jend Suprapto Jak-Pus 10640
+Jakarta Pusat,DKI Jakarta,KCP Cikini,Jl. Raden Saleh Raya No. 12 B Jakarta Pusat 10430
+Jakarta Pusat,DKI Jakarta,KCP Jakarta Harmoni,"Gedung Kantor Pos Besar Pasar Baru , Jakarta Pusat Jl. Gedung Kesenian No. 2 , Jakarta Pusat 10130"
+Jakarta Pusat,DKI Jakarta,KCP Kemayoran,Jl. Garuda No. 29 B Kemayoran Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KCP Palmerah,Jl. Palmerah Barat No. 39 C Jakarta Pusat 10270
+Jakarta Pusat,DKI Jakarta,KCP Pasar Tanah Abang,Jln. KH. Fachrudin Proyek Tanah Abang Bukit Blok C No. 41 Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KCP Roxy Mas,"Komplek Ruko Roxy Mas Blok D2 No. 2, Jl KH Hasyim Ashari Jakarta Pusat 10150"
+Jakarta Pusat,DKI Jakarta,KCP Sudirman,"Gedung Nugra Sentana – Lantai Dasar, Jl. Jend Sudirman Kav 7 – 8 Jakarta 10220"
+Jakarta Pusat,DKI Jakarta,KCP Tanah Abang,Jl. KH Mas Mansyur No. 86 Tanah Abang Jakarta 10230
+Jakarta Pusat,DKI Jakarta,Kantor Layanan Setingkat KCP Pasar Baru,Gedung Kantor Pos Besar Pasar Baru Jakarta Pusat Jln. Lapangan Banteng No. 1 Jakarta Pusat 10130
+Jakarta Pusat,DKI Jakarta,KK Bendungan Hilir,"Jl. Bendungan Hilir Raya Blok. A No. 11 Kel. Benhil, Kec. Tanah Abang Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK Biak,"Jl. Biak No. 71 Kel. Cideng, Kec. Gambir Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK Cempaka Putih Permai,"Jl. Letjen Suprapto, Perum Cempaka Putih Permai Blok A6 , Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK Cideng Barat,Jln. Cideng Barat No. 88A Cideng Kec. Gambir Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK Gajah Mada,"Jln. Gajah Mada No. 64 Kel. Kebon Sirih, Kec. Menteng Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK Glodok Jaya,Komp. Ruko Glodok Plaza B No. 21 Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK Hasyim Azhari,Jl.KH.Hasyim Azhari No.12C Kec.Gambir – Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK Istana Pasar Baru,"Gedung Istana Pasar Baru Lt. 1 No. 41 B Jl. Pintu Air Raya No. 58-64 Pasar Baru, Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK LPO Cikini,Jl. Cikini Raya Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK LPO Jakarta Cempaka Putih,"Jl. A. Yani By Pass, Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK LPO Jakarta Perunggu,Jl. Perunggu No.1 Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK LPO Jakarta Pusat,Jl. Lapangan Banteng No. 1 Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK LPO JKT Gang Tengah,"Jl. Cempaka Putih Tengah XXVI, Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK LPO Menteng,Jl. Sumenep No.9 Jakarta Pusat 10310
+Jakarta Pusat,DKI Jakarta,KK LPO Sumur Batu,Jl.Biduri Bulan I No.14 Jakarta Pusat 10640
+Jakarta Pusat,DKI Jakarta,KK Mediterania Palace,Apartemen Mediterania Palace Residence Blok B/OR/E Jln. Landas Pacu Utara Selatan Blok A1 Kav. 2 Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK Pangeran Jayakarta,"Jln. Pangeran Jayakarta No. 133/135 Blok A/8, Sawah Besar Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK Percetakan Negara,"Jl. Percetakan Negara 641 A Rawasari, Jakarta Pusat"
+Jakarta Pusat,DKI Jakarta,KK Sawah Besar,Jln. Sukaryo Wiryopranoto No. 14B Kec. Gambir Jakarta Pusat 10120
+Jakarta Pusat,DKI Jakarta,KK Taman Solo,Jln. Cempaka Putih Raya No. 20C Cempaka Putih Timur Jakarta Pusat
+Jakarta Pusat,DKI Jakarta,KK Wahid Hasyim,"Jln. Wahid Hasyim No. 10 Kel. Kebon Sirih, Kec. Menteng Jakarta Pusat"
+Jakarta Pusat – Syariah,DKI Jakarta,KCS Jakarta Harmoni,"Jl. Suryo Pranoto No. 9 B-D,  Kel. Petojo Selatan Kec. Gambir  Jakarta Pusat 10130"
+Jakarta Pusat – Syariah,DKI Jakarta,KLS Cempaka Mas,"Komplek Ruko Graha Cempaka Mas Blok A No. 26  Jl. Letjend Suprapto, Cempaka Putih,  Jakarta Pusat 10510 "
+Jakarta Pusat – Syariah,DKI Jakarta,KLS Cikini,Jl. Raden Saleh Raya No. 12 B  Jakarta Pusat 10430
+Jakarta Pusat – Syariah,DKI Jakarta,KLS KCP ITC Mangga Dua,"ITC mangga Dua Lt. I Blok D No.48A-B  Jl. Mangga Dua Raya,  Jakarta Pusat 10630"
+Jakarta Pusat – Syariah,DKI Jakarta,KLS Kemayoran,"Komp. Rusun Kemayoran Blok Dakota 1B No. 103,  Jakarta Pusat 10360"
+Jakarta Pusat – Syariah,DKI Jakarta,KLS Pal Merah,Jl. Palmerah Barat No. 39 C  Jakarta Pusat 10270
+Jakarta Pusat – Syariah,DKI Jakarta,KLS Tanah Abang,"Jl. KH Mas Mansyur No. 86,  Tanah Abang,  Jakarta Pusat 10230"
+Jakarta Barat,DKI Jakarta,KC Jakarta Kebon Jeruk,"Jl. Anggrek No. 01 Kel. Kelapa Dua, Kec. Kebon Jeruk Kebon Jeruk, Jakarta Barat 11550"
+Jakarta Barat,DKI Jakarta,KCP Daan Mogot Baru,"Jl. Tampak Siring Raya Blok KJH No. 1 Daan Mogot Baru, Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KCP Kemanggisan,"Ruko Komplek Budhi Square, Jl. Budi Raya No. 7H , Kemanggisan Palmerah – Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KCP Kembangan,"Komp. Ruko Puri Indah Blok I No. 10, Kembangan – Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KCP Taman Palm,"Komplek Perum Taman Palem Lestari, Blok. D.1 No.15 – Cengkareng, Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KCP Tanjung Duren,"Jl. Tanjung Duren Raya No. 362 A, Tanjung Duren Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK Asemka,"Jln. Pasar Pagi No. 30 Kel. Roa Malaka, Kec. Tambora Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK Cengkareng Timur,"Rukan Hawai Blok A 117 Cengkareng Timur , Cengkareng Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK Intercon,"Jl. Meruya Raya No. 9 Kel. Srengseng, Kec. Kembangan Jakarta Barat 11630"
+Jakarta Barat,DKI Jakarta,KK Jembatan Dua,Jl. Jembatan Dua No. 5G Jakarta Barat
+Jakarta Barat,DKI Jakarta,KK Jembatan Lima,"Jl. Kyai H. Mas Mansyur No. 202 J Jakarta Barat , Jakarta"
+Jakarta Barat,DKI Jakarta,KK Kedoya,"Ruko Green Garden Blok A7 No. 36 Kedoya Utara , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO Cengkareng,"Jl. Bangun Nusa No.14 Jakarta 11730 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO Jakarta Barat,"Jl. Daan Mogot No.20 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO JKB Grogol,"Jl. Dr.Susilo Raya no.1 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO JKB Kalideres,"Jl. Peta Selatan No.16 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO JKB Kebun Jeruk,"Jl. Raya Meruya Ilir No.7 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO JKB Palmerah,"Jl. Anggrek Rosliana No.27 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO JKB Tegal Alur,"Jl. Raya Kamal No.32 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO Slipi,"Jl. KS Tubun III.B No.32 Jakarta 11410 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO Sukabumi Udik,"Jl. KH Tohir Jakarta 11560, Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK LPO Taman Fatahilah,"Jl.Taman Fatahillah No.3 , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK Mangga Besar,Jln. Mangga Besar No. 65C Kec. Tamansari Gambir Jakarta Barat
+Jakarta Barat,DKI Jakarta,KK Meruya Utara,Jl. Meruya Ilir No. 63A Meruya Utara Jakarta Barat – 11620
+Jakarta Barat,DKI Jakarta,KK Muwardi,"Jln. Muwardi IV No. 31 Kel. Grogol, Kec. Grogol Petamburan Jakarta Barat, Jakarta"
+Jakarta Barat,DKI Jakarta,KK Pos Pengumben,"Ruko Permata Boulevard Blok. AC Jl. Raya Pos Pengumben Kec. Kebon Jeruk , Jakarta Kebon Jeruk"
+Jakarta Barat,DKI Jakarta,KK Raden Saleh,"Ruko Armada , Jl. Raden Saleh No. 30 D Kel. Meruya Utara, Kec. Kembangan – Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK Rawabelong,"Jl. Kebayoran Lama No. 6-22 Kel. Sukabumi Utara Kec. Kebon Jeruk , Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK Season City,"Gedung Season City Blok. E.21 Zone 2 Kel. Jembatan Besi, Kec. Grogol – Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK STMIK Grogol,Gedung STMIK Jl. Kyai Tapa No. 216 A Grogol Jakarta Barat
+Jakarta Barat,DKI Jakarta,KK Taman Ratu Indah,"Jl. Ratu Kemuning Blok A2 No. 8C Kel. Duri Kepa Kec. Kebon Jeruk , Kedoya – Jakarta Barat"
+Jakarta Barat,DKI Jakarta,KK Tomang,Jl.Tomang Raya No.10 B Blok 11 Kec.Grogol Petamburan Jakarta Barat
+Jakarta Barat – Syariah,DKI Jakarta,KCPS Jakarta Kebon Jeruk,"Jl. Lapangan Bola No. 88 ,  Kel. Kebon Jeruk, Kec. Kebon Jeruk ,  Jakarta Barat."
+Jakarta Barat – Syariah,DKI Jakarta,KLS KC Kebon Jeruk,Plaza Kebon Jeruk Blok.A No.3  Jl.Raya Perjuangan  Jakarta Barat 11530 
+Jakarta Barat – Syariah,DKI Jakarta,KLS Kembangan,"Komp. Ruko Puri Indah Blok I No. 10,  Kembangan –  Jakarta Barat"
+Jakarta Barat – Syariah,DKI Jakarta,KLS Tanjung Duren,"Jl. Tanjung Duren Raya No. 54 A,  Jakarta Barat 11470"
+Jakarta Selatan,DKI Jakarta,KC Jakarta Melawai,Jl. Melawai Raya No. 72 Blok B-4 kebayoran Baru-Jakarta Selatan kode pos 12130
+Jakarta Selatan,DKI Jakarta,KCP Arteri Pondok Indah,"Komp. Ruko Jl. Sultan Iskandar Muda No. 7F Arteri Pondok Indah, Jakarta Selatan 12240"
+Jakarta Selatan,DKI Jakarta,KCP Cilandak,Komplek Ruko Jl. Cilandak KKO No.12 Cilandak Jakarta Selatan 12560
+Jakarta Selatan,DKI Jakarta,KCP Fatmawati,"Jl. RS. Fatmawati No. 12, Cilandak – Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KCP Kebayoran Lama,"Jl.Kebayoran Lama No : 17 B, Kebayoran Lama, Jakarta Selatan 12220"
+Jakarta Selatan,DKI Jakarta,KCP Mampang,Komplek Ruko Jl. Mampang Prapatan No 42 Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KCP Mayestik,"Jl. Kyai Maja No 45 Kramat Pela, Kebayoran Baru Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KCP Panglima Polim,Jl. Panglima Polim Raya No. 76 Kebayoran Baru Jakarta Selatan 12160
+Jakarta Selatan,DKI Jakarta,KCP Pasar Minggu,"Jl. Raya Pasar Minggu Km 18 No. 8 Pejaten, Jakarta Selatan 12510"
+Jakarta Selatan,DKI Jakarta,KCP Tebet,"Jl. Tebet Barat Dalam Raya Blok F No : 114 A, Tebet , Jakarta Selatan 12810"
+Jakarta Selatan,DKI Jakarta,Kantor Layanan Setingkat KCP Fatmawati,"Gedung Kantor Pos Besar Fatmawati Jakarta Selatan, Jln. RS. Fatmawati No. 10, Cilandak Barat, Jakarta Selatan – 12430"
+Jakarta Selatan,DKI Jakarta,KK Bangka Raya,"Jln. Bangka Raya No. 40F, Kel. Pela Mampang, Kec. Mampang Prapatan, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Bona Indah,"Ruko Bona Indah Jl. Karang Tengah Blok O No. 9 Kel. Lebak Bulus, Kec. Cilandak – Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Bukit Duri,"Jl. Kyai H. Abdullah Syafei No. 2 Kel. Bukit Duri, Kec. Tebet – Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Ciganjur,Jl. Muh. Kahfi I No. 47 Kel. Ciganjur Jagakarsa Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK Cipulir,"Jl. Cileduk Raya No. 123 C R Kel. Cipulir Kec. Kebayoran Lama , Jakarta Selatan 1223"
+Jakarta Selatan,DKI Jakarta,KK Gandaria,Jln. Arteri Pondok Indah No. 99G Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK Jati Padang,"Jln. Raya Ragunan No. 12A, Kel. Jati Padang, Kec. Pasar Minggu, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Kalibata City Square,"Kalibata City Square, Jl. Kalibata Raya No. 1 Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Kebagusan,"Jln. Kebagusan Raya No. 140, Kel. Kebagusan, Kec. Pasar Minggu, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Kemang,"Jln. Kemang Raya No. 3, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Lebak Bulus,"Jln. Lebak Bulus Raya No. 38, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK LPO Guntur,Jl. Guntur No.10 Jakarta Selatan 12980
+Jakarta Selatan,DKI Jakarta,KK LPO Jakarta DPR,"Jl.Gatot Subroto Senayan Komp. DPR-RI , Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK LPO Jakarta Selatan,Jl. RS. Fatmawati No.10 Jakarta Selatan 12430
+Jakarta Selatan,DKI Jakarta,KK LPO Kebayoran IIP,Jl. Ampera Raya Kebayoran Jakarta Selatan 12560
+Jakarta Selatan,DKI Jakarta,KK LPO Kebayoran Lama,Jl. Ciputat Raya No.9 Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK LPO Kemang,Jl. Kemang Dalam Selatan No.30 Jakarta Selatan 12730
+Jakarta Selatan,DKI Jakarta,KK LPO Mampang,Jl. Kapten Tendean No. 43 Mampang Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK LPO Pasar Minggu,Jl. Raya Ragunan No.10 Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK LPO Tebet Barat,Jl. Tebet Barat Dalam Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK Manggarai,"Jln. Sultan Agung No. 65 (Ruko) Kel. Pasar Manggis, Kec. Setia Budi, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Pasar Minggu Center,"Ruko Pasar Minggu Center No. 28 Jln. Raya Pasar Minggu, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Pejaten,"Ruko Graha Pejaten, Jln. Raya Pejaten No. 50 I, Kec. Pasar Minggu, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Pesanggrahan,"Jl. Deplu Raya No. 15 D , Kel. Bintaro Kec. Pesanggrahan Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Pondok Indah,"Ruko Pondok Indah Plaza 2 Blok BA No. 12, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Pondok Labu,"Jln. H. Ipin No. 1 B/1, Kel. Pondok Labu, Kec. Cilandak, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Radio Dalam,"Jl. Radio Dalam Raya No. 15 B , Kel. Gandaria Utara Kebayoran Baru – Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Sahardjo,Jl. Dr. Sahardjo No. 216 Kel. Menteng Dalam Tebet – Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK Supomo,Jln. Prof. Dr. Supomo SH. No. 45G Jakarta Selatan
+Jakarta Selatan,DKI Jakarta,KK Tanjung Barat,"Galeri Niaga, Jln. TB. Simatupang Tanjung Barat, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Tebet Timur,"Jl. Tebet Dalam Timur Raya No. 95B Kel. Tebet Timur, Kec. Tebet Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Warung Jati,"Ruko C Graha Pulo, Jln. Buncit Raya No. 89, Jakarta Selatan"
+Jakarta Selatan,DKI Jakarta,KK Wolter Monginsidi,"Jln. Wolter Monginsidi No. 123, Kel. Rawa Barat, Kec. Kebayoran Baru, Jakarta Selatan"
+Jakarta Selatan – Syariah,DKI Jakarta,KCS Jakarta Pasar Minggu,"Jl. Ruko Grand Palace Blok G & H,  Jl. Raya Ps. Minggu Km 16  Pancoran  Jakarta Selatan"
+Jakarta Selatan – Syariah,DKI Jakarta,KCPS Jakarta Al-Azhar,Komplek Mesjid Agung Al-Azhar  Jl. Sisinga Mangaraja Blok KI Persil No. 2  Kebayoran Baru  Jakarta Selatan 12110
+Jakarta Selatan – Syariah,DKI Jakarta,KLS Cilandak,Komplek Ruko Jl. Cilandak KKO No : 12  Cilandak  Jakarta Selatan 12560
+Jakarta Selatan – Syariah,DKI Jakarta,KLS KC Jakarta Kuningan,"Wisma Budi Lt.1 & 2  Jl. HR. Rasuna Said Kav. C8,  Jakarta Selatan 12940"
+Jakarta Selatan – Syariah,DKI Jakarta,KLS Kebayoran Lama,"Jl.Kebayoran Lama No : 17 B,  Kebayoran Lama,  Jakarta Selatan 12220"
+Jakarta Selatan – Syariah,DKI Jakarta,KLS Mampang,Jl. Mampang Prapatan Raya No. 42  Jakarta Selatan 12790
+Jakarta Selatan – Syariah,DKI Jakarta,KLS Panglima Polim,"Jl. Raya Panglima Polim No. 76 Keb. Baru,  Jakarta Selatan 12170"
+Jakarta Selatan – Syariah,DKI Jakarta,KLS Pasar Minggu,"Jl. Raya Pasar Minggu Km. 18 No. 8 Pejaten, Jakarta Selatan 12510"
+Jakarta Selatan – Syariah,DKI Jakarta,KLS Pondok Indah,Komp Ruko Jl. Sultan Iskandar Muda No 7E  Arteri Pondok Indah  Jakarta Selatan 12441
+Jakarta Selatan – Syariah,DKI Jakarta,KLS Tebet,"Jl. Tebet Barat Dalam Raya Blok F No : 114 A,  Tebet ,  Jakarta Selatan 12810"
+Jakarta Timur,DKI Jakarta,KCP Dewi Sartika,Jl. Dewi Sartika No. 231 C Jakarta Timur 13640
+Jakarta Timur,DKI Jakarta,KCP Duren Sawit,"Komplek Ruko Raden Inten No. 8 N Jl. Raden Inten II, Duren Sawit Jakarta Timur"
+Jakarta Timur,DKI Jakarta,KCP Jatinegara,"Jl. Jatinegara Timur No. 91 Balimester, Jakarta Timur 13350"
+Jakarta Timur,DKI Jakarta,KCP Kalimalang,Jl. Kalimalang Raya Blok N No. 12 G kel. Duren Sawit – Jakarta Timur
+Jakarta Timur,DKI Jakarta,KCP Klender,"Jl. I Gusti Ngurah Rai No. 44 D-F Klender, Jakarta Timur 13470"
+Jakarta Timur,DKI Jakarta,KCP Pasar Rebo,"Komplek Ruko Mutiara Faza, Jl. Raya Condet No. 27 Pasar Rebo – Jakarta Timur"
+Jakarta Timur,DKI Jakarta,KCP Rawamangun,"Jl. Paus No. 90 Blok H Kav. 244 Rawamangun, Jakarta Timur 13220"
+Jakarta Timur,DKI Jakarta,KK Cililitan,Jl. Cililitan Besar No. 72 C Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK Cipinang Elok,Ruko Wisma Elok No. 7 Jl. Cipinang Elok I Blok J No. 136 Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK Kramat Jati,Ruko Pasar Induk Kramat Jati Blok D1 No. 10 Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK LPO Cakung,Jl.Tipar Cakung Jakarta Timur 13330
+Jakarta Timur,DKI Jakarta,KK LPO Cipinang Cempedak,Jl. Raya Langgar Cipinang Jakarta Timur 13340
+Jakarta Timur,DKI Jakarta,KK LPO Cipinang Melayu,Jl. Wirajasa Cipinang Melayu Jakarta Timur 13620
+Jakarta Timur,DKI Jakarta,KK LPO Jakarta Timur,Jl. Pemuda No.79 Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK LPO Jatinegara,Jl. Matraman Raya No.222 Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK LPO Jatirawamangun,Jl. Pulo Asem Utara No.12 Rawamangun Jakarta Timur 13220
+Jakarta Timur,DKI Jakarta,KK LPO Klender,Jl. C Tanah 80 Klender Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK LPO Kompleks Makassar,Jl. Mesjid Almu’min No.10 Komplek Makasar Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK LPO Pondok Bambu,Jl. Pahlawan Revolusi Blok A3 No.2 Pondok Bambu Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK LPO Pondok Kopi,Jl. Robusta Blok O No.3 Pondok Kopi Jakarta Timur 13460
+Jakarta Timur,DKI Jakarta,KK LPO Pulogebang,Jl. Stasiun Cakung Jakarta Timur13950
+Jakarta Timur,DKI Jakarta,KK LPO Rawamangun,Jl. Mustika Jaya No.10 Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK Perumnas Klender,Jl. Raya Teratai Putih Klender Ruko No. 64A Jakarta Timur
+Jakarta Timur,DKI Jakarta,KK Pondok Kelapa,Ruko Kalimalang Jl. Tarum Barat Blok A2/3A Jakarta Timur
+Jakarta Timur – Syariah,DKI Jakarta,KCPS Jatinegara,"Jl. Jatinegara Timur Raya No. 46 B,  Kel. Bali Mester  Jakarta Timur"
+Jakarta Timur – Syariah,DKI Jakarta,KLS Cakung,"Komplek Ruko Pulo Gadung Trade Center Blok. 8-1, Kav.23,  Jl. Bekasi Raya Km.20 – Cakung  Jakarta Timur"
+Jakarta Timur – Syariah,DKI Jakarta,KLS Dewi Sartika,Jl. Dewi Sartika No. 4H  Jakarta Timur 13630 
+Jakarta Timur – Syariah,DKI Jakarta,KLS Duren Sawit,Jl. Buaran III No : 11  Duren Sawit  Jakarta Timur
+Jakarta Timur – Syariah,DKI Jakarta,KLS Klender,"Jl. I Gusti Ngurah Rai No. 44 D-F  Klender,  Jakarta Timur 13470"
+Jakarta Timur – Syariah,DKI Jakarta,KLS Rawamangun,Jl.Paus No.89  Rawamangun  Jakarta Timur 13220
+Jakarta Utara,DKI Jakarta,KCP ITC Mangga Dua,"ITC Mangga Dua Lt. 1 Blok D No. 48 A -B, Jl. Mangga Dua Raya, Jakarta 10630"
+Jakarta Utara,DKI Jakarta,KCP Kelapa Gading,"Jl. Boulevard Blok TA 2 No. 18, Kelapa Gading – Jakarta Utara 14240"
+Jakarta Utara,DKI Jakarta,KCP Kramat Jaya,"Jl. Raya Kramat Jaya No. 33 Koja, Jakarta Utara"
+Jakarta Utara,DKI Jakarta,KCP Pantai Indah Kapuk,Taman Resor Mediterania Jl. Pantai Indah Utara II Blok K No. 8-C Penjaringan Jakarta Utara
+Jakarta Utara,DKI Jakarta,KCP Pluit,Jl. Pluit Kencana Raya No. 83 Blok B Kav. 7E Jakarta Utara 14450
+Jakarta Utara,DKI Jakarta,KCP Sunter,"Komp. Rukan Puri Mutiara Blok A No. 96, Jl. Griya Utama, Sunter Agung, Jakarta Utara 14350"
+Jakarta Utara,DKI Jakarta,KK Gading Nias,Gading Nias Residence Type Rk Blok GNR No. B Jln. Pegangsaan II No. 3 Kelapa Gading Jakarta Utara – 14250
+Jakarta Utara,DKI Jakarta,KK Gunung Sahari,"Jl.Gunung Sahari Raya 13 Blok A No.4, Kec.Pademangan Jakarta Utara"
+Jakarta Utara,DKI Jakarta,KK LPO Jakarta Utara,"Jl. Swasembada Timur XI/37 , Jakarta Utara"
+Jakarta Utara,DKI Jakarta,KK LPO JKU Lagoa,Jl. Ampera Besar No.33 Jakarta Utara
+Jakarta Utara,DKI Jakarta,KK LPO JKU Pademangan Timur,Jl. Perintis Kemerdekaan Jakarta Utara
+Jakarta Utara,DKI Jakarta,KK LPO JKU Semper,"Jl. Kebantenan , Jakarta Utara"
+Jakarta Utara,DKI Jakarta,KK LPO JKU Stasiun,"Jl. Cumi No. 38 Jakarta Utara , Jakarta Utara"
+Jakarta Utara,DKI Jakarta,KK LPO JKU Tugu,"Jl. Kramat Jaya , Jakarta Utara"
+Jakarta Utara,DKI Jakarta,KK Muara Karang,Jln. Muara Karang No. 267 Blok A-6 Utara Jakarta Utara
+Jakarta Utara,DKI Jakarta,KK Teluk Gong,"Ruko Duta Indah Square Jl. Raya Teluk Gong No. 15 Blok. A/2, Pejagalan Jakarta Utara"
+Jakarta Utara,DKI Jakarta,KK Waterboom Jakarta,"Rukan Bukit Golf Mediterania Blok A 12, Pantai Indah Kapuk, Jakarta Utara"
+Jakarta Utara – Syariah,DKI Jakarta,KLS Kelapa Gading,Jl.Boulevard Blok.TA II No.18  Kelapa Gading  Jakarta Utara 14240
+Jakarta Utara – Syariah,DKI Jakarta,KLS Pluit,Jl. Pluit Kencana Raya No. 61  Jakarta Utara 10220
+Jakarta Utara – Syariah,DKI Jakarta,KLS Sunter,"Rukan Puri Mutiara Blok A No. 96  Jl. Griya Utama – Sunter Agung,  Jakarta Utara 14350"
+Cilegon,Banten,KC Cilegon,Jl. Sultan Ageng Tirtayasa No. 49 Cilegon 42414
+Cilegon,Banten,KK Pasar Baru,"Jl. KH. Washid Ruko Amanda Blok A No, 2 Pasar Baru Sukmajaya Cilegon"
+Cilegon,Banten,KK Pondok Cilegon Indah,"Ruko Halmahera Blok E22 No. 12 Pondok Cilegon Indah, Cilegon"
+Cilegon,Banten,KCS Cilegon,"Jl. Jend Ahmad Yani No 1B, Cilegon"
+Cilegon,Banten,KLS KC Cilegon,Jl. Jombang Masjid No. 2 Cilegon 42411
+Serang,Banten,KCP Serang,Jl. Mayor Syafei No. 14 Serang 42112
+Serang,Banten,KCP Serang Timur,"Jl. Raya Jakarta – Serang Km. 76, Kragilan Serang"
+Serang,Banten,KK Cipocok,"Ruko Cipocok, Jl. Raya Petir Cipocok – Serang"
+Serang,Banten,KK Ciracas,Ruko Blok II B Jl. Kolonel Suwandi Lingkar Selatan Ciracas – Serang
+Serang,Banten,KK IAIN SMH,Kampus IAIN Sultan Maulana Hasanuddin Jl. Jend. Sudirman No. 30 Serang – Banten
+Serang,Banten,KK LPO Anyer,"Jl. Raya Anyer Sirih Km.125 No.7 Anyer, kab. Serang"
+Serang,Banten,KK LPO Kragilan,"Jl. Raya Serang-Jakarta, Ds Kragilan, kab. Serang"
+Serang,Banten,KLS Serang,Jl. Mayor Syafei No.14 Serang 42115
+Tangerang,Banten,KC Karawaci,"Perumnas Karawaci I , Jl. Cendrawasih No. 1 Tangerang BT 15115"
+Tangerang,Banten,KC Tangerang,"Jl. Perintis Kemerdekaan No. 01 Tangerang 15118 , Tangerang"
+Tangerang,Banten,KCP Ciledug,Jl. Dr. Sutomo No. 8 A Ciledug Tangerang 15157
+Tangerang,Banten,KCP Cimone,"Komp. Pertokoan Sentra Blok A3 & A5 Jl. Raya Jend. Gatot Subroto Km. 2, Cimone – Tangerang 15114"
+Tangerang,Banten,KCP Cipondoh,"Jl. KH Hasyim Ashari No. 51, Ruko A-B, Cipondoh, Tangerang 15118"
+Tangerang,Banten,KCP Duta Garden – Daan Mogot,"Komp Ruko Duta Graden Blok A1 No. 4A, Jurumudi Baru, Tangerang"
+Tangerang,Banten,KCP Karawaci,"Perumnas Karawaci I , Jl. Cendrawasih No. 1, kota Tangerang 15138 "
+Tangerang,Banten,KK Borobudur Karawaci,"Ruko Perumnas Karawaci II , Jl. Borobudur Blok B No. 4 , Karawaci"
+Tangerang,Banten,KK City Mall,"City Mall, Jl. Moch Toha km. 02 No. 1 Tangerang Kel. Nombo Jaya Karawaci Kota Tangerang"
+Tangerang,Banten,KK Karang Tengah Selatan,Jl. Karang Tengah Raya No. 9 Ciledug – Kota Tangerang 
+Tangerang,Banten,KK Karang Tengah,"Jl. Raden Saleh No. 14A Karang Tengah, Tangerang"
+Tangerang,Banten,KK LPO Jatiuwung,Jl. Raya Pondok Makmur No.1 Jatiuwung Tangerang
+Tangerang,Banten,KK LPO Jurumudi Baru,"Jl. Halim Perdana Kusuma, Batu Ceper 15124 , Tangerang"
+Tangerang,Banten,KK LPO Daan Mogot,"Jl. Daan Mogot 11 Tangerang 15000 , Tangerang"
+Tangerang,Banten,KK Merdeka,"Jl. Merdeka No. 92 A, Gerendeng, Karawaci, Tangerang"
+Tangerang,Banten,KK Modern Land,Ruko Modern Land Blok. R No. 30 Jl. Hartono Raya Cikokol – Tangerang
+Tangerang,Banten,KK Peninggilan,"Jl. Raden Patah No. 89 Ciledug, Tangerang "
+Tangerang,Banten,KK Pinang,"Jl. KH. Hasyim Ashari Rt 08/02 Pinang, Tangerang"
+Tangerang,Banten,KK Plaza Sinta,"Ruko Plaza Sinta Blok C No. 3 Jl. Teuku Umar, Cimone, Karawaci  – Tangerang"
+Tangerang,Banten,KK Poris Indah,Komp. Ruko Poris Indah Blok B11 No. 25 Poris Gaga Cipondoh – Tangerang
+Tangerang,Banten,KK Sastra Plaza,Ruko Sastra Plaza Jl. Gatot Subroto Blok D No. 102 Jatiuwung Tangerang
+Tangerang,Banten,KK Taman Royal,"Ruko Sentra Niaga Jl. Permata Niaga No. 3 Komplek Taman Royal, Cipondoh – Tangerang"
+Tangerang,Banten,KK Villa Regency,Villa Tangerang Regency Ruko Blok BE 1 No. 18 Sanghiang – Tangerang
+Tangerang,Banten,KLS Ciledug,Jl. Hos Cokroaminoto No. 59B Ciledug Tangerang 15157
+Tangerang,Banten,KLS Cimone,Komplek Pertokoan Sentra Blok A3 & A5 Jl. Raya Jend. Gatot Subroto Km.2 Cimone Tangerang 15114
+Tangerang,Banten,KLS Karawaci,"Perumahan Karawaci I, Jl. Cendrawasih No. 1, Tangerang 15138"
+Tangerang Kab.,Banten,KCP Cikupa,"Komplek Ruko Cikupa Niaga Mas Blok A No.11 Jalan Raya Serang Km 15 Desa Talagasari, Kecamatan Cikupa,Kabupaten Tangerang, Banten"
+Tangerang Kab.,Banten,KCP Cikupa,Jl. Raya Serang Km 17 Komp. Ruko Kav 6 Cikupa Tangerang 15710 
+Tangerang Kab.,Banten,KCP Pasar Kemis,"Ruko Telaga Bumi Asri Blok A1/A2 Jl. Raya Kotabumi, kec. Pasarkemis, kab. Tangerang 15561"
+Tangerang Kab.,Banten,KK Balaraja,"Ruko Algo , Jl. Raya Kresek KM 1 No. 6 Kali Baru Balaraja – Tangerang"
+Tangerang Kab.,Banten,KK Citra Raya,Jl. Raya Serang KM 14 Blok. BO 5B/7 Citra Raya Cikupa – Tangerang
+Tangerang Kab.,Banten,KK Curug,"Jl. Raya PLP Curuk No. 109 Desa Sukabakti, Curug, kab. Tangerang – 15180"
+Tangerang Kab.,Banten,KK Legok,"Jl. Raya Parung Panjang K. 0,5 Blok A,1 Babakan Legok – Tangerang"
+Tangerang Kab.,Banten,KK LPO Pasarkemis,"Jl. Raya Pasar Kemis No.1, kab. Tangerang 15560 "
+Tangerang Kab.,Banten,KK Muncul,Jl. Raya Puspitek No. 32 Muncul Cisauk Kab. Tangerang
+Tangerang Kab.,Banten,KK Permata Tangerang,"Perum Permata Tangerang Blok EA 3 No. 26 Gelam Jaya, Pasarkemis – kab. Tangerang"
+Tangerang Kab.,Banten,KK Sepatan,Jl. Raya Mauk Km 11 No. 88 Sepatan Tangerang
+Tangerang Kab.,Banten,KK Villa Taman Bandara,"Komp. Ruko Villa Taman Bandara Blok B1 No. 62 Dadap, Kosambi, kab. Tangerang"
+Tangerang Kab.,Banten,KK Wisma Mas,Jl. Industri Raya Pasar Kemis Blok. A.3 No. 21 Kutajaya Pasar Kemis Kab. Tangerang
+Tangerang Selatan,Banten,KC BSD,"Ruko BSD Sektor VII E Blok K No. 8, Jl. Raya Serpong, Tangerang Selatan 15310"
+Tangerang Selatan,Banten,KC Ciputat,Jl. Dewi Sartika No. 21 Ciputat 15411
+Tangerang Selatan,Banten,KCP Bintaro Trade Center,"Komp. Bintaro Trade Center, Blok A1 No. 2 – Pondok Aren, Tangerang Selatan"
+Tangerang Selatan,Banten,KCP Cirendeu,"Jl. Raya Cirendeu Raya No. 66C Cirendeu, Ciputat,  Tangerang Selatan"
+Tangerang Selatan,Banten,KCP Gading Serpong,"Perumahan Gading Serpong, Blok. SG 01, Kavling 37 Serpong – Tangerang Selatan"
+Tangerang Selatan,Banten,KCP Pamulang,"Komp. Ruko Pamulang Permai Blok SH 10 No. 6-7 Pamulang, Tangerang Selatan 15417 "
+Tangerang Selatan,Banten,KCP Universitas Terbuka,"Gd. Universitas Terbuka, Jl. Pondok Cabe Raya Pamulang Ciputat"
+Tangerang Selatan,Banten,KK Alam Sutera,"Ruko jalur Sutera Kav.29 D No.41 Alam Sutera, Pakualam, Serpong Utara, Tangerang Selatan"
+Tangerang Selatan,Banten,KK BSD Sektor 1.1,Ruko Griyo Loka Sektor 1.1 BSD City – Tangerang Selatan
+Tangerang Selatan,Banten,KK Cisauk,"Ruko Serpong Garden Jl. Raya Cisauk Lapan Blok A/1 Cibogo, Cisauk – Tangerang Selatan"
+Tangerang Selatan,Banten,KK Graha Raya,Komp. Ruko Graha Raya Bintaro. Blok JF No.11-Tangerang Selatan
+Tangerang Selatan,Banten,KK Jombang,"Jl. Raya Jombang No. 62 Rt 007/02, Kel. Pondok Pucung Kec. Pondok Aren – Tangerang Selatan"
+Tangerang Selatan,Banten,KK Kampung Utan,"Ruko Sing Asri No.2, Jl. WR Supratman Kampung Utan, Kel. Cempaka Putih, Kec. Ciputat Timur, Tangerang Selatan"
+Tangerang Selatan,Banten,KK LPO Ciputat,Jl. R.E. Martadinata No.17 Ciputat 15417
+Tangerang Selatan,Banten,KK LPO Sarua,Jl. Raya Bukit Indah Sarua Ciputat
+Tangerang Selatan,Banten,KK Melati Mas,Ruko Villa Melati Mas Blok A1/17 Lengkong Karya Serpong Utara – Tangerang Selatan
+Tangerang Selatan,Banten,KK Pahlawan Seribu,"Ruko Barcelona Sektor XIV Blok E.9 No. 17 Kel. Rawabuntu, Kec. Serpong Tangerang Selatan"
+Tangerang Selatan,Banten,KK Pamulang 2,"Perumahan Pamulang Permai 2, JL. Pamulang Raya No.22 RT.007 RW.011, Kel Benda Baru, Kec Pamulang Tangerang Selatan"
+Tangerang Selatan,Banten,KK Permata Medang,Ruko Permata Medang Blok B III / A11 Medang Pagedangan – Tangerang Selatan
+Tangerang Selatan,Banten,KK Pondok Aren,Jl. Raya Cegar No. 72B Kel. Jurang Mangu Barat Kec. Pondok Aren – Tangerang Selatan
+Tangerang Selatan,Banten,KK Pondok Kacang,Ruko Regia Blok RB 02/73 Pondak Kacang Pondok Aren – Tangerang Selatan
+Tangerang Selatan,Banten,KK Pondok Pinang,Jl. Ciputat Raya No. 16 Pondok Pinang
+Tangerang Selatan,Banten,KK Rempoa,"Jl. Vereran Raya No. 21 Rempoa, Ciputat Timur, Tangerang Selatan"
+Tangerang Selatan,Banten,KK Serua,Ruko Bukit Aria Pesona Rk. No. 06 Serua Indah-Ciputat
+Tangerang Selatan,Banten,KK Sutera Niaga,Jl. Raya Serpong Ruko Sutera Niaga II No. 28 Pakulonan Serpong Utara – Tangerang
+Tangerang Selatan,Banten,KCS Tangerang,"Jl. Serpong Raya, Ruko Villa Melati Mas Blok. SR-1 No. 23-24 Serpong – Tangerang Selatan 15320"
+Tangerang Selatan,Banten,KCPS Ciputat,"Jl. Ir. Juanda No. 75 CC, Cirendeu – Tangerang Selatan 15419"
+Tangerang Selatan,Banten,KLS KC Ciputat,"Jl. Dewi Sartika No. 21 Ciputat 15411 , Tangerang"
+Bantul,Yogyakarta,KCP Bantul,Jl. Jend. Sudirman No. 182 Bantul – Yogyakarta
+Bantul,Yogyakarta,KK LPO Bantul,Jl. Jendral Sudirman No.114 Bantul 55711
+Bantul,Yogyakarta,KK Universitas Muhammadiyah,"Ring Road Barat Kampus UMY Gedung AR Fachrudin B Lt.1 Tamantirto, Kasian, Bantul Yogyakarta – 55183"
+Gunungkidul,Yogyakarta,KK LPO Wonosari,"Jl. Brigjen Katamso No. 12 Wonosari, Gunungkidul 55813"
+Kulon Progo,Yogyakarta,KK LPO Wates,"Jl. Sutijab No.63 Wates, Kulon Progo 55611 "
+Sleman,Yogyakarta,KCP Colombo,"Komp. Ruko Bulettin Music Shop, Jl. Colombo No. 7 – Samirono, Caturtunggal – Sleman Yogyakarta"
+Sleman,Yogyakarta,KCP Condong Catur,"Jl. Bakri No. 1 Ring Road, Condong Catur, Sleman, Yogyakarta 55282"
+Sleman,Yogyakarta,KCP Nogotirto,"Jl. Godean Km 5 No. 4 A, Sleman Yogyakarta"
+Sleman,Yogyakarta,KCP Palagan /dh. Colombo,"Jl. Palagan Tentara Pelajar No. 92 A Sariharjo, Ngaglik, Sleman, Yogyakarta"
+Sleman,Yogyakarta,KK LPO Pakem,Jl. Kaliurang Km.17 Pakem Sleman 55582
+Sleman,Yogyakarta,KK LPO Prambanan,"Jl. Raya Prambanan Kios Prambodoharjo No.27, Sleman"
+Sleman,Yogyakarta,KK Maguwoharjo,Jl. Sudarsan Cakra No. 3 A Maguharjo Depok Sleman Yogyakarta
+Sleman,Yogyakarta,KCS Yogyakarta,"Jl. Faridan M Noto No. 10, Kota Baru Sleman – Yogyakarta 55283"
+Sleman,Yogyakarta,KCPS Condong Catur,"Jl. Bakri No. 1 Ring Road, Condong Catur , Sleman – Yogyakarta 55283"
+Sleman,Yogyakarta,KCPS Condong Catur,"Jl. Bakri No. 1 Ring Road, Condong Catur , Sleman – Yogyakarta 55283"
+Yogyakarta,Yogyakarta,KC Yogyakarta,Jln. Jend. Sudirman No. 71 Yogyakarta 55223
+Yogyakarta,Yogyakarta,KCP Kadipiro,"Komplek Ruko Bayeman Permai Jl. Wates Km 3 No. 16, Yogyakarta 55182"
+Yogyakarta,Yogyakarta,KK Katamso,Jln. Brigjen Katamso No. 250 Yogyakarta
+Yogyakarta,Yogyakarta,KK Kusumanegara,Jl. Kusumanegara No. 40 Yogyakarta
+Yogyakarta,Yogyakarta,KK LPO Babarsari,Jl. Babarsari No. 20 Yogyakarta 55281
+Yogyakarta,Yogyakarta,KK LPO Gondokusuman,Jl. Munggur No.54 Gondokusuman Yogyakarta
+Yogyakarta,Yogyakarta,KK LPO Gondolayu,Jl. Jend.Sudirman No.19 Gondolayu jetis Yogyakarta 55233
+Yogyakarta,Yogyakarta,KK LPO Matrijeron,"Jl. Prapanca No.5 Gedongkiwo mantrijeron 55142 , Yogyakarta"
+Yogyakarta,Yogyakarta,KK LPO Mergangsan,"Jl. Sisingamangaraja No.1 Mergangsan 55153 , Yogyakarta"
+Yogyakarta,Yogyakarta,KK LPO Mlati,"Jl. Wahidin Magelang KM.7,8 Mlati 55285 , Yogyakarta"
+Yogyakarta,Yogyakarta,KK LPO Muja Muju,Jl. Kenari No.75 Muja Muju Yogyakarta 55165
+Yogyakarta,Yogyakarta,KK LPO Tegal Rejo,Jl. Jambon 1No.19 Tegalrejo Yogyakarta 55242
+Yogyakarta,Yogyakarta,KK LPO Yogyakarta,Jl. P.Senopati No. 2 Yogyakarta 55000 
+Yogyakarta,Yogyakarta,KK Universitas Gajah Mada,Gedung Rumah Sehat & Unik Jln. Dr. Sardjito No. 25 Yogyakarta
+Yogyakarta,Yogyakarta,KK Universitas Negeri Yogyakarta,Gedung Sport Smart Jl. Colombo No. 1 Yogyakarta
+Yogyakarta,Yogyakarta,KLS KC Yogyakarta,Jl. Jend. Sudirman No. 71 Yogyakarta 55223
+Bandung,Jawa Barat,KC Bandung,Jl. Jawa No. 7 Bandung 40117
+Bandung,Jawa Barat,KCP Antapani,Jl. Purwakarta No. 142 Bandung 40291
+Bandung,Jawa Barat,KCP Buah Batu,Jl. Buah Batu No. 194 Bandung 40264
+Bandung,Jawa Barat,KCP Cijerah,Jl. Raya Cijerah No. 221 Bandung 40534
+Bandung,Jawa Barat,KCP Kopo,Jl. Raya Kopo No. 470 Bandung 40223
+Bandung,Jawa Barat,KCP Kopo Mas,"Komp. Supermarket Kopo Mas Regency Blok 8 Kav. F Jl. Kopo Sayati, Bandung 40224"
+Bandung,Jawa Barat,KCP Margahayu Raya,Jl. Sukarno Hatta No. 624 Komp. Metro Kav. 9-10 Bandung 40286
+Bandung,Jawa Barat,KCP Rancaekek,"Jl. Dangdeur No. 14, Rancaekek – Bandung"
+Bandung,Jawa Barat,KCP Sarijadi,Setrasari Mall B-1 No. 6 Jl. Prof Ir. Sutami Bandung 40152
+Bandung,Jawa Barat,KCP Setiabudi,Jln. Setiabudi No. 171 D Bandung
+Bandung,Jawa Barat,KCP Sumber Sari,Jl. Sukarno Hatta No. 101 Bandung 40223
+Bandung,Jawa Barat,KCP TAMANSARI,Jl. Tamansari no. 18 Bandung 40116
+Bandung,Jawa Barat,KCP Ujung Berung,Jl. Raya Ujung Berung No. 111 Bandung 40619
+Bandung,Jawa Barat,KCP UNPAD,Gedung Pasca Sarjana UNPAD Jl. Dipati Ukur No. 35 Bandung 40132
+Bandung,Jawa Barat,KK Ahmad Yani,Jln. Ahmad Yani No. 322 Bandung
+Bandung,Jawa Barat,KK Bojong Soang,Jl. Raya Bojong Soang No. 87 A Bandung
+Bandung,Jawa Barat,KK Cibaduyut,Jln. Cibaduyut Residence No. 8A Bandung
+Bandung,Jawa Barat,KK CIBIRU,Jl. Raya Cinunuk No. 134 Bandung
+Bandung,Jawa Barat,KK Cicaheum,Jl. Achmad Yani No. 830 Bandung
+Bandung,Jawa Barat,KK Cihampelas,Ruko Promenade Jln. Cihampelas No. 121 A Bandung
+Bandung,Jawa Barat,KK Dago,Jln. Ir. H. Djuanda No. 342 Bandung
+Bandung,Jawa Barat,KK Gedebage,Jln. Adi Flora RD 2 Bandung
+Bandung,Jawa Barat,KK Ketapang,Jl. Terusan Kopo No. 311 Bandung
+Bandung,Jawa Barat,KK Mochamad Ramdan,Jl. Moch. Ramdan No. 99 Bandung
+Bandung,Jawa Barat,KK Mochamad Toha,Jl. Moch. Toha No. 270 Bandung
+Bandung,Jawa Barat,KK Pasar Induk Caringin,Ruko Blok A1 No. 1 Pasar Induk Caringin Bandung
+Bandung,Jawa Barat,KK Sindanglaya,Jln. A. H. Nasution No. 94B Bandung
+Bandung,Jawa Barat,KK Sukajadi,Jln. Pasir Kaliki No. 207C Bandung
+Bandung – Syariah,Jawa Barat,KCS Bandung,Jl. Cicendo No. 16  Kel. Babakan Ciamis Bandung Kec. Sumur  Bandung JB 40117
+Bandung – Syariah,Jawa Barat,KCPS Bandung Surapati Core,"Ruko Grand Surapati Core  Jl. PHH Mustofa Blok B. No. 05 ,  Kel. Padasuka Kec. Cibeunying Kidul ,  Bandung JB 40125 "
+Bandung – Syariah,Jawa Barat,KLS Buah Batu,Jl. Buah Batu No. 194  Bandung JB 
+Bandung – Syariah,Jawa Barat,KLS KC Antapani,Jl. Purwakarta No. 142  Bandung JB 40291
+Bandung – Syariah,Jawa Barat,KLS Kopo Mas,Jl. Raya Kopo No. 470  Bandung JB 40223
+Bandung – Syariah,Jawa Barat,KLS Margahayu,Jl. Soekarno Hatta No. 624  Bandung JB 40286
+Bandung – Syariah,Jawa Barat,KLS Sarijadi,"Setrasari Mall B-1 No : 6 ,  Jl. Prof Ir. Sutami  Bandung JB 40152"
+Bandung – Syariah,Jawa Barat,KLS Ujung Berung,Jl. Raya Ujung Berung No. 111  Bandung JB 40619
+Bandung – Syariah,Jawa Barat,KLS Univ. Padjajaran,"Gedung Pasca Sarjana UNPAD, Jl. Dipati Ukur No. 35  Bandung JB 40132"
+Banjar,Jawa Barat,KK LPO Banjar,"Jl. Kantor Pos No.219 Banjar, Jawa Barat"
+Bekasi,Jawa Barat,KC Bekasi,Jl. Jend. Sudirman No. 19 Bekasi 17143
+Bekasi,Jawa Barat,KC Cibubur,Ruko Madison Blok B1 No. 6-8 Cibubur Time Square Jl. Raya Alternatif Transyogi Km. 3 Cibubur – Bekasi 
+Bekasi,Jawa Barat,KC Harapan Indah,"Komp. Ruko Sentra Niaga Blok SN No. 1 – 3 Jl. Boulevard Hijau, Harapan Indah, Bekasi 17132"
+Bekasi,Jawa Barat,KC Indah Rawa Lumbu,"Komp. Perum Rawa Lumbu, Jl. Trisatya No. 2 Rawa Lumbu, Bekasi 17116"
+Bekasi,Jawa Barat,KCP Bantar Gebang,Jl. Raya Narogong Km.11 No.99 Bantar Gebang – Bekasi
+Bekasi,Jawa Barat,KCP Bekasi Jaya Indah,"Komp. Danita BJI, Jl. H. Agus Salim Blok AI No. 1, Bekasi Timur 17112"
+Bekasi,Jawa Barat,KCP Bintara,Jl. Bintara Raya No. 11D Bintara Bekasi
+Bekasi,Jawa Barat,KCP Duta Plaza,"Komp. Ruko Duta Plaza Blok B II/14, Jl. KH. Noer Ali (d/h Jl. Raya Kalimalang), Bekasi 17145"
+Bekasi,Jawa Barat,KCP Harapan Baru,Komp. Pertokoan Harapan Baru Blok B 1 No. 3 Bekasi Barat 17133
+Bekasi,Jawa Barat,KCP Jati Asih,"Jl. Jati Mekar No. 184, Bekasi 17422"
+Bekasi,Jawa Barat,KCP Mustika Jaya,"Jl. Pasadena Blok R.3/01-02 Mustika Jaya, Bekasi"
+Bekasi,Jawa Barat,KCP Pondok Gede,"Jl. Jatiwaringin No. 14, Pondok Gede, Bekasi 17411"
+Bekasi,Jawa Barat,KCP Pondok Hijau,"Komp Pondok Hijau Permai, Jl. Pondok Hijau Raya No. 2, Bekasi-Timur 17115"
+Bekasi,Jawa Barat,KCP Pondok Ungu,"Ruko Perumahan Chandrabaga Blok AR, 01 No. 1 Harapan Indah – Bekasi"
+Bekasi,Jawa Barat,KCP Rawa Lumbu,"Komp. Perum Rawa Lumbu, Jl. Trisatya No. 2 Rawa Lumbu, Bekasi 17116"
+Bekasi,Jawa Barat,KCP Setia Mekar,"Jl. Pulau Nusantara Raya Kav. 7 , Setia Mekar, Bekasi 17111"
+Bekasi,Jawa Barat,KCP Tambun,"Jl. Hasanudin Raya No. 76 B-C Tambun, Bekasi Timur 17510"
+Bekasi,Jawa Barat,KCP Teluk Pucung,Ruko Taman Wisma Asri Blok M No. 7 Jl. Raya Perjuangan – Teluk Pucung Bekasi – 17121
+Bekasi,Jawa Barat,KK Atrium Pondok Gede,"Atrium Pondok Gede Blok. B2 DS No. 12 Jatiwaringin, Pondok Gede – Bekasi"
+Bekasi,Jawa Barat,KK Billa Mutiara Gading III,"Ruko Villa Mutiara Gading 3 R,1 No. 03 Kebalen Kec. Babelan – Bekasi Utara"
+Bekasi,Jawa Barat,KK Bojong Kulur,"Ruko Villa Nusa Indah II, Bojong Kulur-Bekasi "
+Bekasi,Jawa Barat,KK Bulak Kapal,"Komplek Ruko Djuanda Elok No. 10 Jl. Ir. H. Djuanda , Kel. Margahayu, Kec. Bekasi Timur"
+Bekasi,Jawa Barat,KK Cibarusah,"Jl. Raya Malaka No. 14 , Kp. Malaka – Cibarusah Kota Bekasi 17340 "
+Bekasi,Jawa Barat,KK Dukuh Zamrud,Ruko Dukuh Zamrud Blok B1 No. 1 Kel. Pedurenan Mustika Jaya Bekasi
+Bekasi,Jawa Barat,KK Galaksi,Ruko Patung Kuda Dua – Galaksi Blok AR No. 1 Jakasetia Bekasi
+Bekasi,Jawa Barat,KK Grand Prima Bintata,"Komplek Pertokoan Grand Prima Bintara No. 20 Jl. I. Gusti Ngurah Rai, Kel. Bintara, Kec. Bekasi Barat"
+Bekasi,Jawa Barat,KK Harapan Jaya,Perum Harapan Jaya Jl. Cemara Permai Blok A No. 60 C Bekasi Utara
+Bekasi,Jawa Barat,KK Jati Bening,Komplex Villa Jati Bening Blok. A No. 1 Bekasi
+Bekasi,Jawa Barat,KK Jatimurni,"Jl. Raya Hankam, Jati Murni Pondok Gede-Bekasi"
+Bekasi,Jawa Barat,KK Jatirasa,Komp. Ruko SSB No. 27- H Jl. Raya Jatiasih Pondok Gede – Bekasi 17424
+Bekasi,Jawa Barat,KK Kaliabang,"Ruko Panorama Blok R15, Kaliabang Bekasi"
+Bekasi,Jawa Barat,KK Kalimas,"Ruko Sentra Niaga Kalimas, Jl. H. Noer Ali Bekasi"
+Bekasi,Jawa Barat,KK Kemang Pratama,Perum Kemang Pratama Blok. MM No. 21 C Bekasi
+Bekasi,Jawa Barat,KK LPO Bantar Gebang,Jl. Raya Narogong KM 11 Bekasi 1751
+Bekasi,Jawa Barat,KK LPO Bekasi,"Jl.Lapangan Serbaguna No.07, Bekasi"
+Bekasi,Jawa Barat,KK LPO Bekasi Barat,Jl. Sultan Agung No.72 Bekasi 17133
+Bekasi,Jawa Barat,KK LPO Bekasi Jaya,Jl. KH Agus Salim No.111 Bekasi 17112
+Bekasi,Jawa Barat,KK LPO Jati Asih,"Jl.Raya Jati Bening Pondok Gede, Bekasi"
+Bekasi,Jawa Barat,KK LPO Jati Rahayu,"Jl.Raya Kranggan Jati Sampurna Pondok Gede, Bekasi"
+Bekasi,Jawa Barat,KK LPO Jati Sampurna,Jl. Raya Kranggan No.03 Pd Gede Bekasi 17432
+Bekasi,Jawa Barat,KK LPO Pekayon Jaya,"Jl Raya Pekayon Jaya Bekasi 17148, Bekasi"
+Bekasi,Jawa Barat,KK LPO Perumnas I,"Jl.Komodo Raya No.01, Bekasi"
+Bekasi,Jawa Barat,KK LPO Pondok Gede,Jl. Kelurahan Jati Makmur No.12 Pondok Gede 17400
+Bekasi,Jawa Barat,KK LPO Tambun,"Jl.St Hasanuddin No.340, Bekasi"
+Bekasi,Jawa Barat,KK Pekayon,Jl. Raya Pekayon No. 45 D Pekayon Jaya Bekasi Barat
+Bekasi,Jawa Barat,KK Perum Jatisari Permai,"Jl. Wibawamukti Jatisari Blok A, Perumahan Jatisari Permai – Bekasi , "
+Bekasi,Jawa Barat,KK Rawa Kalong,Jl. Raya Setia Mekar Rt 08 / Rw 10 No. 79 Rawa Kalong Tambun – Bekasi
+Bekasi,Jawa Barat,KK Sultan Agung,"Ruko Medan Satria, Jl. Sultan Agung KM 27 Bekasi"
+Bekasi,Jawa Barat,KK Sumber Artha,"Komplek Ruko Sumber Artha Blok. A 03 No. 22 Jl. Raya Kalimalang, Kel. Bintara, Kec. Bekasi Barat , Bekasi"
+Bekasi,Jawa Barat,KK Taman Harapan Baru,"Pertokoan Taman Harapan Baru Bolk B1 No. 37 Kel. Pejuang, Kec. Medan Satria – Bekasi "
+Bekasi,Jawa Barat,KK Tarumajaya,Kp. Bali Rt. 001/02 Ruko Pantai Makmur Kec. Tarumajaya – Bekasi Utara
+Bekasi,Jawa Barat,KK Villa Mutiara Gading II,Ruko Villa Mutiara Gading II Blok D1-18 Karang Satria Tambun Utara Bekasi
+Bekasi – Syariah,Jawa Barat,KCS Bekasi,"Jl. Jenderal Sudirman. Ruko No. 1 G-H ,  Kel. Kayu Ringin Kec. Bekasi Selatan –  Kota Bekasi JB 17114"
+Bekasi – Syariah,Jawa Barat,KCPS Kalimas Bekasi,Komplek Ruko Kalimas Blok C 9 – 10  Bekasi JB 17113
+Bekasi – Syariah,Jawa Barat,KLS Bekasi Jaya Indah,"Komp. Danita B.J.I ,  Jl. H. Agus Salim Blok A1 No. 1, Bekasi Timur  Bekasi JB 17112"
+Bekasi – Syariah,Jawa Barat,KLS Bintara,Jl. Bintara Raya No : 11 D Bintara Bekasi JB
+Bekasi – Syariah,Jawa Barat,KLS Cibubur Time Square,Ruko Madison Blok B1 No. 6-8 Cibubur Time Square  Jl. Raya Alternatif transyogi Km. 3 Cibubur  Bekasi JB 17435
+Bekasi – Syariah,Jawa Barat,KLS Duta Plaza,"Komp. Ruko Duta Plaza Blok B II/14,  Jl. KH. Noer Ali (d/h Jl. Raya Kalimalang),  Bekasi JB 17145"
+Bekasi – Syariah,Jawa Barat,KLS Harapan Baru,Komp. Pertokoan Harapan Baru Blok B 1 No. 3 Bekasi Barat  Bekasi 17133
+Bekasi – Syariah,Jawa Barat,KLS Jati Asih,"Jl. Jati Mekar No. 184,  Bekasi JB 17422"
+Bekasi – Syariah,Jawa Barat,KLS KC Bekasi,Jl. Jend. Sudirman No. 19  Bekasi JB 17143
+Bekasi – Syariah,Jawa Barat,KLS KC Cibubur,"Ruko Madison Blok B1 No. 6-8 Cibubur Time Square,  Jl. Raya Alternatif transyogi Km. 3 Cibubur –  Bekasi JB 17435"
+Bekasi – Syariah,Jawa Barat,KLS KC Cikarang,"Ruko Cikarang Commercial Center B1 No. 3-5,  Jl. Raya Cikarang – Cibarusah Km. 40  Cikarang JB 17550"
+Bekasi – Syariah,Jawa Barat,KLS Pondok Gede,"Jl. Jatiwaringin No. 14, Pondok Gede,  Bekasi JB 17411"
+Bekasi – Syariah,Jawa Barat,KLS Pondok Hijau Permai,"Komp Pondok Hijau Permai,  Jl. Pondok Hijau Raya No. 7, Bekasi-Timur  Bekasi 17115"
+Bekasi – Syariah,Jawa Barat,KLS Pondok Ungu,Ruko Permata Harapan Baru Blok H No.79  Jl. Raya Pejuang Medan Satria  Bekasi JB 17131
+Bekasi – Syariah,Jawa Barat,KLS Rawa Lumbu,"Komp. Perum Rawa Lumbu,  Jl. Trisatya No. 2 Rawa Lumbu,  Bekasi JB 17116"
+Bekasi – Syariah,Jawa Barat,KLS Setia Mekar,"Jl. Pulau Nusantara Raya Kav. 7 Setia Mekar,  Bekasi JB 17111"
+Bekasi – Syariah,Jawa Barat,KLS Tambun,Jl.Hasanudin Raya No.76 B-C Tambun  Bekasi JB 17510
+Bekasi – Syariah,Jawa Barat,KLS Teluk Pucung,Ruko Taman Wisma Asri Blok M No. 7  Jl. Raya Perjuangan – Teluk Pucung  Bekasi JB 17121
+Bekasi Kab.,Jawa Barat,KC Cikarang,Ruko Cikarang Commercial Center B1 No. 3-5 Jl. Raya Cikarang – Cibarusah Km. 40 Cikarang 17550 
+Bekasi Kab.,Jawa Barat,KCP Cibitung,"Jl Teuku Umar No. 47, Rt 01/04, Kp Utan, Wanasari, Cibitung – Bekasi 17520 "
+Bekasi Kab.,Jawa Barat,KCP Cikarang Central City,"Ruko Cikarang Central City Blok B-17 Jln. Raya Cikarang – Cibarusah Cikarang Selatan, Kab. Bekasi"
+Bekasi Kab.,Jawa Barat,KCP Pasar Sentral,Jl. Raya Cikarang-Cibarusah Pasar Sentral Lippo Cikarang Blok ESA No. 17 Cikarang Selatan
+Bekasi Kab.,Jawa Barat,KCP RE. Martadinata,"Jl. RE. Martadinata, Ruko No. 3 Cikarang Utara , Cikarang"
+Bekasi Kab.,Jawa Barat,KK Jababeka,"Jababeka 2, Komp. Pertokoan Capitol Blok 2 G Kec. Cikarang, Kab. Bekasi"
+Bekasi Kab.,Jawa Barat,KK LPO Cibarusah,Jl. Raya Loji Cibarusah Bekasi 17340
+Bekasi Kab.,Jawa Barat,KK LPO Cibitung,"Jl.Raya Teuku Umar 22, Bekasi"
+Bekasi Kab.,Jawa Barat,KK LPO Cikarang,"Jl.Gatot Subroto No.23A Cikarang, Bekasi"
+Bekasi Kab.,Jawa Barat,KK LPO Kedung Waringin,Jl. Kedung Gede No.48 Bekasi 17540
+Bekasi Kab.,Jawa Barat,KK LPO Setu,Jl. Letjen Suprapto No.28 Lubang Buaya Setu Bekasi 17320
+Bekasi Kab.,Jawa Barat,KK LPO Tambelang,Jl. Raya Tambelang No.02 Ds.Sukarapih Bekasi 17620
+Bekasi Kab.,Jawa Barat,KK Pilar,Jl. Gatot Subroto – Cikarang Utara – Kab. Bekasi
+Bekasi Kab.,Jawa Barat,KK Sentra Kalimas,"Ruko Sentra Niaga Kalimas Blok A-09A, Jl. H. Noer Ali Kalimalang, Tambun Selatan – Kab. Bekasi"
+Bekasi Kab.,Jawa Barat,KK Serang,Ruko Jl. Raya Serang-Cibarusah KM 01 Kec. Cikarang Selatan Kab. Bekasi
+Bekasi Kab.,Jawa Barat,KK Setu,Jl. WR. Supratman No. 14 Setu Kab. Bekasi
+Bekasi Kab.,Jawa Barat,KK Sukaresmi Cikarang,"Jl. Raya Cikarang Cibarusah No. 19 C Ds. Sukaresmi Kec. Cikarang Selatan, Kab. Bekasi"
+Bekasi Kab.,Jawa Barat,KK Taman Aster,Komp. Taman Aster – Cikarang Barat Kab. Bekasi 
+Bekasi Kab.,Jawa Barat,KLS KC Cikarang,"Ruko Cikarang Commercial Center B1 No. 3-5, Jl. Raya Cikarang – Cibarusah Km. 40 Cikarang 17550 , Bekasi"
+Bogor,Jawa Barat,KC Bogor,Jl. Pengadilan No. 13-15 Bogor 16121
+Bogor,Jawa Barat,KCP Bojong Gede,Jl. Pasar Lama No. 10 Bojong Gede – Bogor
+Bogor,Jawa Barat,KCP Cimanggu,Jl. Kyai Haji Soleh Iskandar Ruko 24 No.2G Kodya Bogor
+Bogor,Jawa Barat,KCP Tajur,Jl Raya Tajur No. 67 – Bogor
+Bogor,Jawa Barat,KCP Warung Jambu,"Jl. Raya Pajajaran Ruko No. 165 Warung Jambu, Bogor 16153"
+Bogor,Jawa Barat,KK Bendongan,Jl. Pahlawan No. 63 Ruko No. 6 Bondongan Bogor Selatan
+Bogor,Jawa Barat,KK Bondongan,"Jl. Pahlawan No. 70A, Bondongan Bogor"
+Bogor,Jawa Barat,KK Ciluar,Jl. Raya Kedunghalang RT 01/09 Kel. Ciparigi – Bogor Utara
+Bogor,Jawa Barat,KK LPO Bogor Kebun Raya,Jl. Ir. H. Juanda No.5 Bogor
+Bogor,Jawa Barat,KK LPO Bogor Sukasari,Jl. Siliwangi No. 35 Bogor Sukasari 16142A
+Bogor,Jawa Barat,KK LPO Gunung Putri,"Jl. Mercedez Benz No.194 Tanjung Udik Gunung Putri 16965, Bogor"
+Bogor,Jawa Barat,KK LPO Kedunghalang,Jl.Raya Mandala No.1 Ciparigi Ked.Halang Bogor 16710
+Bogor,Jawa Barat,KK Pandu,Ruko Banbarung Grande No. 8 Jl. Raya Pandu Bantarjati Bogor Utara
+Bogor,Jawa Barat,KK Taman Yasmin,"Ruko Taman Yasmin Sektor 6 No. 118 Jl. Abdullah Bin Nuh / Ring Road , Taman Yasmin – Bogor"
+Bogor,Jawa Barat,KCPS  Warung Jambu,"Jl. Raya KS Tubun No. 59 C, Bogor Utara – Bogor 16151"
+Bogor,Jawa Barat,KLS KC Bogor,Jl. Pengadilan No. 13-15 Bogor 16121
+Bogor,Jawa Barat,KLS Tajur,Jl Raya Tajur No. 130A – Bogor
+Bogor,Jawa Barat,KLS Warung Jambu,"Jl. Raya Pajajaran Ruko No. 3 Warung Jambu, Bogor 16153"
+Bogor Kab.,Jawa Barat,KCP Cibinong,"Central Ruko Cibinong Blok. A No. 7-8, Jl. Mayor Okong Jaya Atmaja No. 63 Cibinong – Bogor 16820"
+Bogor Kab.,Jawa Barat,KCP Cileungsi,Jl. Narogong Raya No. 53 Cileungsi Bogor 16820
+Bogor Kab.,Jawa Barat,KCP Citeureup,Jalan Mayor Oking Jayaatmaja No. 3 Citeureup – Bogo
+Bogor Kab.,Jawa Barat,KCP Dramaga,Komplek Ruko At Taufiq No. A Jl. Raya Dramaga Km.26 – Bogor
+Bogor Kab.,Jawa Barat,KK Cibanteng,Jl. Raya Cibanteng RT 05/03 Kp. Cihideung Hilir Ciampea – Bogor
+Bogor Kab.,Jawa Barat,KK Cilebut,Perum Pesona Cilebut C 01-25 Ds. Cilebut Barat Kec. Sukaraja – Bogor
+Bogor Kab.,Jawa Barat,KK Ciomas,Ruko Grand Ciomas No 18 Jl. Raya Cikareteg Ciomas Kab. Bogor
+Bogor Kab.,Jawa Barat,KK CIOMAS,"Ruko Grand Ciomas No 18 atau 19, Jl Ciomas Raya No. 101 Bogor"
+Bogor Kab.,Jawa Barat,KK Jampang,"Jl. Raya Parung , Kp. Jampang Rt.03/05 Kec. Kemang – Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Ciampea,Jln. Raya Cibadak No.1 Ciampea Bogor 16620
+Bogor Kab.,Jawa Barat,KK LPO Ciawi Bogor,"Jl. K.H. Moh Toha No.10 Ciawi 16720, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Cibinong,"Jl. Tegar Beriman B-4/7 Cibinong, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO ibinong Ciriung,"Jl. Mayor Oking No.47 Cibinong, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Cigombong,"Bina Remaja Rt.02/07 No.5 Jl. Ry Sukabumi Cijeruk Bgr 16740, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Cileungsi,"Jl. Camat Enjan No.29 Cileungsi, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Cimanggis,"Jl Gas Alam No. 3 Cimanggis 16951, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Cisarua,"Jl. Raya Puncak No.525 Cisarua, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Citeureup,"Jl. Mayor Oking No.1 Citeureup Cibinong 16810, Bogor"
+Bogor Kab.,Jawa Barat,KK LPO Dramaga,Jln. Raya Dramaga No.27 Bogor 16680
+Bogor Kab.,Jawa Barat,KK LPO Jonggol,Jl. Raya Jonggol Cileungsi Cibinong 16830
+Bogor Kab.,Jawa Barat,KK LPO Leuwiliang,Jl. Raya Leuwiliang No.158 Leuwiliang Bogor
+Bogor Kab.,Jawa Barat,KK LPO Parung,"Jl. Lebak Wangi RT 03 RW 02, Kec. Parung, Bogor 16330"
+Bogor Kab.,Jawa Barat,KK Bojong Kulur,"Ruko Villa Nusa Indah II, Bojong Kulur-Kab. Bogor "
+Bogor Kab.,Jawa Barat,KK Parung,Jl. Raya Parung – Bogor No. A1/03 Bogor 
+Bogor Kab.,Jawa Barat,KK Sentul,Ruko Gerbang Sentul Estate No. 8 Desa Sentul Babakan Madang Kab. Bogor
+Bogor Kab.,Jawa Barat,KK Sukahati,Jl. Dedy Kusmayadi No. 55A Sukahati Cibinong Kab. Bogor
+Bogor Kab.,Jawa Barat,KK Villa Bogor,Ruko Villa Bogor Indah 2 Blok BB 2 No. 3 Kedung Halang Kab. Bogor
+Bogor Kab.,Jawa Barat,KLS CIBINONG,"Central Ruko Cibinong Blok. A No. 7-8, Jl. Mayor Okong Jaya Atmaja No. 63, Bogor"
+Bogor Kab.,Jawa Barat,KLS CILEUNGSI,"Jl. Narogong Raya No. 53 Cileungsi Bogor 16820 , Bogor"
+Bogor Kab.,Jawa Barat,KLS DRAMAGA,"Komplek Ruko At Taufiq No. A, Jl. Raya Dramaga Km.26 – Bogor"
+Ciamis,Jawa Barat,KK Ciamis,Jl. Jend. Sudirman No. 234 Ciamis
+Ciamis,Jawa Barat,KK LPO Banjarsari,Jl. Raya Banjarsari Kec. Banjarsari Kab. Ciamis 46300
+Ciamis,Jawa Barat,KK LPO Ciamis,Jl. Jend. Sudirman No.2 Ciamis
+Ciamis,Jawa Barat,KK LPO Pangandaran,Jl. Kidang Pananjung Pangandaran Ciamis 43396
+Ciamis,Jawa Barat,KK LPO Panumbangan,Jl. Raya Panumbangan No. 323 Panumbangan Ciamis 46263
+Cianjur,Jawa Barat,KCP Cianjur,Jl. Siti Jenab No. 51 Cianjur 43211
+Cianjur,Jawa Barat,KK LPO Cianjur,Jl. Siti Jenab No.39 Cianjur
+Cianjur,Jawa Barat,KK LPO Ciranjang,Jl Raya Ciranjang No.88 Cianjur 43282
+Cianjur,Jawa Barat,KLS CIANJUR,Jl. Siti Jenab No. 51 Cianjur 43211
+Cimahi,Jawa Barat,KC Cimahi,Jl. Raya Timur Cimahi No. 475 / Jl. Raya Timur Cimahi No. 475 (dahulu) Cimahi 40524
+Cimahi,Jawa Barat,KLS Cimahi,"Jl. Raya Timur Cimahi No. 475, Cimahi 40524"
+Cirebon,Jawa Barat,KC Cirebon,Jl. Siliwangi No. 16 Cirebon 45121
+Cirebon,Jawa Barat,KCP Rajawali,Jl. Rajawali Raya No. G 2 – 3 Cirebon 45141
+Cirebon,Jawa Barat,KK LPO Arjawinangun,Jl. Arjawinangun No.07 Kel. Arjawinangun Kec. Arjawinangun Kab. Cirebon – 45162
+Cirebon,Jawa Barat,KK LPO Astanajapura,Jl. Kyai Wahid Hasyim No.29 Kel. Mertapada Wetan Kec. Astanajapura Kab. Cirebon – 45181
+Cirebon,Jawa Barat,KK LPO Babakan,Jl. Raya Babakan No.4 Desa Babakan Kec. Babakan Kab. Cirebon – 45191
+Cirebon,Jawa Barat,KK LPO Ciledug,Jl. Raya Desa Jatiseeng Kec. Ciledug Kab. Cirebon – 45188
+Cirebon,Jawa Barat,KK LPO Cirebon,Jl. Yos Sudarso No.09 Kel./Kec. Lemahwungkuk Kota Cirebon – 45111
+Cirebon,Jawa Barat,KK LPO Losari,Jl. Raya Losari No.156 Kel. Losari Kec. Losari Kab. Cirebon – 45192
+Cirebon,Jawa Barat,KK LPO Palimanan,Jl. Raya Palimanan No.81 Desa Palimanan Timur Kec. Palimanan Kab. Cirebon – 45161
+Cirebon,Jawa Barat,KK LPO Plered,JL. Fatahilah No.33 Desa Weri Kidul Kec. Weru Kab. Cirebon – 45154
+Cirebon,Jawa Barat,KK LPO Sindanglaut,Jl. M T Haryono No.15 Kel. Cipeujeuh Wetan Kec. Lemahabang Kab. Cirebon – 45184
+Cirebon,Jawa Barat,KK LPO Sumber,Jl. Dewi Sartika No.134 Kel. Sumber Kec. Sumber Kab. Cirebon – 45611
+Cirebon,Jawa Barat,KCS Cirebon,Ruko Cirebon City Center Jl. Sisingamangaraja No. 27 – 28 Cirebon 45121
+Depok,Jawa Barat,KC Depok,"Jl. Margonda Raya No. 186 Depok 16423 , Depok"
+Depok,Jawa Barat,KCP Depok,"Jl. Margonda Raya No. 438 RT, 002/03 , Kel. Pondok Cina, Kec. Beji Kota Depok Telp. : Facs. : , Jakarta Pasar Minggu"
+Depok,Jawa Barat,KCP Beji,"Jl. Nusantara Raya Kav. 20A Depok , Depok"
+Depok,Jawa Barat,KCP Cimanggis,"Jl. Raya Bogor Km. 30 No. 1 – 2, Mekar Sari, Cimanggis 16000 , Depok"
+Depok,Jawa Barat,KCP Cinere,"Komplek Pertokoan Cinere Blok B 2 No : 53 Jl. Cinere Raya – Depok 16514 , Depok"
+Depok,Jawa Barat,KCP Citayam,"Komp. Pertokoan Pasar Citayam Kav.32 – Depok , Depok"
+Depok,Jawa Barat,KCP Depok II Timur,"Komp. Pertokoan Jl. Proklamasi Blok. A No.2-3 Depok Timur, Depok 16417 , Depok"
+Depok,Jawa Barat,KCP Lenteng Agung,"Jl. Lenteng Agung Rt 07 Rw 07 Jagakarsa, Jakarta Selatan , Depok"
+Depok,Jawa Barat,KCP Sawangan,"Jl. Raya Sawangan, Komp Ruko Rivaria Blok A 2 No. 1, Depok , Depok"
+Depok,Jawa Barat,KK Cilodong,"Kampung sawah , Jatimulya – Depok , Depok"
+Depok,Jawa Barat,KK Cisalak,"Jl. Raya Jakarat-Bogor Km. 34 No. 19 Cisalak , Kec. Sukmajaya – Depok , Depok"
+Depok,Jawa Barat,KK Fakultas Psikologi UI,"Kampus UI Depok, Gd. Fakultas Psikologi , Depok"
+Depok,Jawa Barat,KK Gandul,"Jl. Bukit Cinere Kav Pertamina No. 86 D Kel. Gandul, Kec. Limo – Depok , Depok"
+Depok,Jawa Barat,KK Kartini,"Jl. Citayam Ruko Kartini Rt 01/02 Kel Depok Kec. Pancoran Mas Depok , Depok"
+Depok,Jawa Barat,KK Kelapa Dua,"Jl. Nusantara Hankam Rt. 007/02 No. 15 Kel. Pasir Gunung selatan Kec. Cimanggis Depok, Depok"
+Depok,Jawa Barat,KK Kukusan,"Jl. K.H.M Usman Rt 02/08 No. 154A Kel Beji Kec. Kukusan Depok, Depok"
+Depok,Jawa Barat,KK LPO CINERE,"Jl. Raya Cinere No.29 Kec limo Depok, Depok"
+Depok,Jawa Barat,KK LPO DEPOK,"Jl. Sentosa Raya No.3 Depok II, Depok, Depok"
+Depok,Jawa Barat,KK LPO DEPOK PANCORAN MAS,"Jl. Raya Kartini No.3 Depok lama 16431, Depok"
+Depok,Jawa Barat,KK LPO DEPOK PERUMNAS I,"Jl. Rambutan No.1, Perumnas Depok I, Depok, Depok"
+Depok,Jawa Barat,KK LPO DEPOK TIMUR,"Jl. Kerinci Raya No.8 Depok Timur 16417 A, Depok"
+Depok,Jawa Barat,KK LPO PARUNG PANJANG,"Jl. Marga Mekar No.1 Rt.04/01 Parung Panjang 16360, Depok"
+Depok,Jawa Barat,KK LPO SAWANGAN,"Jl. Raya Bojongsari No.1 Sawangan 16516, Depok"
+Depok,Jawa Barat,KK MAHARAJA,"Komp. Depok Town Centre – DTC Mall Blok A 1 No. 10 Jl. Raya Muchtar – Sawangan Depok , Depok"
+Depok,Jawa Barat,KK Maharaja,"Komp. Depok Town Centre – DTC Mall Blok A 1 No. 10 Jl. Raya Muchtar – Sawangan Depok , Depok"
+Depok,Jawa Barat,KK Sukatani Arcadia,"Jl. Ciherang Sukatani No. 8C Rt 001/06 Kel. Sukatani Kec. Cimanggis Depok, Depok"
+Depok – Syariah,Jawa Barat,KCPS Depok,"Jl. Margonda Raya No. 438  RT, 002/03 , Kel. Pondok Cina, Kec. Beji  Depok JB"
+Depok – Syariah,Jawa Barat,KLS Cimanggis,Jl. Raya Bogor Km.30 No.1-2  Mekar Sari Cimanggis  Depok JB 16952
+Depok – Syariah,Jawa Barat,KLS Cinere,Komplek Pertokoan Cinere Blok B2 No. 53  Jl. Cinere Raya  Depok JB 16514
+Garut,Jawa Barat,KCP Garut,Jl. Jend. A. Yani No. 5 Garut 44188
+Indramayu,Jawa Barat,KCP Indramayu,Jl. Jend. Sudirman No. 123 Indramayu 45211
+Indramayu,Jawa Barat,KK LPO Indramayu,Jl. Siliwangi No.06 Kel. Paoman Kec. Indramayu Kab. Indramayu – 45211
+Indramayu,Jawa Barat,KK LPO Karangampel,Jl. Raya Selatan No.19 Kel. Karangampel Kec. Karangampel Kab. Indramayu – 45283
+Karawang,Jawa Barat,KC Karawang,"Jl. Kertabumi No. 29 A-D, Karawang 41311 Jawa Barat"
+Karawang,Jawa Barat,KCP Cikampek,"Ruko Central Cikampek, Jl. A. Yani No. 7, Cikampek – Karawang"
+Karawang,Jawa Barat,KK Johar,Jl. Tuparev No. 427 Karawang
+Karawang,Jawa Barat,KK Klari,"Ruko Graha Kosambi No. 6 Klari , Karawang"
+Karawang,Jawa Barat,KK LPO Karawang,"Jl.Alun-alun Selatan No.01 Karawang, Karawang"
+Karawang,Jawa Barat,KK Teluk Jambe 1,"Ruko Perumnas Teluk Jambe Blok K 25, Teluk Jambe Karawang"
+Karawang,Jawa Barat,KK Teluk Jambe 2,"Ruko City Walk No. 19-20 , Karawang"
+Karawang,Jawa Barat,KLS KC Karawang,"Jl. Surotokunto No. 55 Adiarsa, Karawang 41313"
+Kuningan,Jawa Barat,KCP Kuningan,Jl. Siliwangi No. 6-7 Kuningan 45511
+Kuningan,Jawa Barat,KK LPO Cilimus,Jl. Raya Cilimus No. 153/173 Kel. Cilimus Kec. Cilimus Kab. Kuningan – 45556
+Kuningan,Jawa Barat,KK LPO Kuningan,Jl. Ahmad Yani No.02 Kel./Kec. Kuningan Kab. Kuningan – 45511
+Majalengka,Jawa Barat,KK LPO Cikijing,Jl. Cipanji No.124 Kel. Cikijing Kec. Cikijing Kab. Majalengka – 45466
+Majalengka,Jawa Barat,KK LPO Jatiwangi,Jl. A. Yani No.2 Kel. Jatiwangi Kec. Jatiwangi Kab. Majalengka – 45454
+Majalengka,Jawa Barat,KK LPO Kadipaten,Jl. Raya Timur No.168 Kel. Kadipaten Kec. Kadipaten Kab. Majalengka – 45452
+Majalengka,Jawa Barat,KK LPO Majalengka,Jl. Alun-alun Timur No.03 Kel./Kec. Majalengka Kab. Majalengka – 45411
+Purwakarta,Jawa Barat,KC Purwakarta,Jl. RE. Martadinata No. 1 Purwakarta 41114
+Purwakarta,Jawa Barat,KK LPO Purwakarta,"Jl. KK Singawinata No. 105 Purwakarta, Purwakarta"
+Purwakarta,Jawa Barat,KK Munjul,Jl. Ipik Gandamanah No. 11 Kel. Tegal Munjul Purwakarta
+Purwakarta,Jawa Barat,KK Sadang,"STS Sadang, Lantai Dasar Jl. Raya Sadang Blok. 09-10 P , Purwakarta"
+Purwakarta,Jawa Barat,KLS KC Purwakarta,Jl. RE. Martadinata No. 1 Purwakarta 41114
+Subang,Jawa Barat,KCP Pamanukan,"Jl. Ion Martasasmita No. 34 – Pamanukan , Subang"
+Subang,Jawa Barat,KCP Subang,Jl. Jend. A. Yani No. 9A-9B Subang
+Subang,Jawa Barat,KK Kalijati,"Jl. Raya Kalijati Desa Kalijati Timur, Kec. Kalijati Kab. Subang Jawa Barat"
+Subang,Jawa Barat,KK LPO Pagaden Baru,"Jl. Raya Kamarung No.240 Pagaden baru, Subang 41252"
+Subang,Jawa Barat,KK LPO Subang,Jl. Achmad Yani No.36 Subang
+Sukabumi,Jawa Barat,KCP Sukabumi,Jl. Jend. Sudirman No 75 E Sukabumi
+Sukabumi,Jawa Barat,KK LPO Cisaat,Jl Raya Cisaat No.11/237 Sukabumi 43152
+Sukabumi,Jawa Barat,KK LPO Sukabumi,Jl. Ahmad Yani No.42 Sukabumi 43131
+Sukabumi,Jawa Barat,KLS Sukabumi,Jl. Jend. Sudirman No 75 E Sukabumi
+Sumedang,Jawa Barat,KCP Jatinangor,"Jl. Raya Jatinangor No. 194, Cikeruh Jatinangor , Sumedang"
+Sumedang,Jawa Barat,KCP Sumedang,"Jl. Mayor Abdurahman No. 50, Sumedang"
+Tasikmalaya,Jawa Barat,KC Tasikmalaya,Jl. Sutisna Senjaya No. 101 Tasikmalaya 46112
+Tasikmalaya,Jawa Barat,KK LPO Ciawi,Jl. Raya Sukamantri Ciawi Tasikmalaya 46156
+Tasikmalaya,Jawa Barat,KK LPO Indihiang,Jl. Raya Indihiang No.109 Tasikmalaya 46151
+Tasikmalaya,Jawa Barat,KK LPO Kawalu,Jl Cibeuti No.20A Cicariang Kawalu Tasikmalaya 46182
+Tasikmalaya,Jawa Barat,KK LPO Manonjaya,Jl Pasar Wetan No.40 Tasikmalaya 46197
+Tasikmalaya,Jawa Barat,KK LPO Serpong,Jl. Raya Serpong No.03 Serpong Tangerang 15310
+Tasikmalaya,Jawa Barat,KK LPO Tasikmalaya,Jl. Oto Iskandardinata No.6 Tasikmalaya
+Tasikmalaya,Jawa Barat,KK Singaparna,"Jln. Raya Timur No. 87 Cikiray – Singaparna, Tasikmalaya"
+Tasikmalaya,Jawa Barat,KCS Tasikmalaya,"Jl. Mesjid Agung No. 14 , Kel. Tawang Sari, Kec. Tawang Tasikmalaya – Jawa Barat"
+Tasikmalaya,Jawa Barat,KLS KC Tasikmalaya,Jl. Sutisna Senjaya No. 101 Tasikmalaya 46112
+Ambarawa,Jawa Tengah,KK LPO Ambarawa,Jl. Jend. Sudirman 162 Ambarawa JT 50216
+Banjarnegara,Jawa Tengah,KK LPO Banjarnegara,Jl. Pemuda No.72 Banjarnegara
+Banyumas,Jawa Tengah,KC Purwokerto,Jl. Jend. Sudirman No. 431 Purwokerto 53116
+Banyumas,Jawa Tengah,KK LPO Ajibarang,Jl. Raya Ajibarang No. 3 Purwokerto 53163
+Banyumas,Jawa Tengah,KK LPO Banyumas,Jl. Pramuka No.18 Banyumas 53192
+Banyumas,Jawa Tengah,KK LPO Purwokerto,Jl. Jend Sudirman No. 435 Purwokerto
+Banyumas,Jawa Tengah,KK LPO Purwokerto Wetan,Jl. Martadireja II No.271 Purwokerto 53412
+Banyumas,Jawa Tengah,KK LPO Wangon,"Jl. Raya Timur No.10 Wangon 53176, Banyumas"
+Banyumas,Jawa Tengah,KK Sokaraja,Jl. Gatot Subroto No. 603 Ruko No. 3 Sokaraja – Banyumas
+Banyumas,Jawa Tengah,KK Universitas Sudirman,Kampus Univ. Sudirman Purwokerto
+Banyumas,Jawa Tengah,KLS KC Purwokerto,Jl. Jend. Sudirman No. 431 Purwokerto 53116
+Batang,Jawa Tengah,KK Batang,Jl.Jenderal Sudirman RT.02 RW.01 Proyonangan Tengah Kab.Batang
+Batang,Jawa Tengah,KK LPO Batang,Jl. P Diponegoro No.2 Batang 51211
+Batang,Jawa Tengah,KK LPO Limpung,Jl. Raya Limpung-Batang Kab. Batang 51271
+Batang,Jawa Tengah,KK LPO Subah,Jl. Raya Subah Batang 51262
+Blora,Jawa Tengah,KK LPO Blora,Jl. Pemuda No. 5 Blora 58200
+Blora,Jawa Tengah,KK LPO Cepu,Jl RSU Blora Cepu 58312
+Boyolali,Jawa Tengah,KK LPO Ampel,Jl. Solo-Semarang No.217 Mekarsari Kaligentong Ampel Boyolali
+Boyolali,Jawa Tengah,KK LPO Boyolali,Jl. Pandanaran No.64 Boyolali
+Brebes,Jawa Tengah,KK LPO Brebes,Jl. Diponegoro No. 66 Brebes 52212
+Brebes,Jawa Tengah,KK LPO Bulukamba,Jl. Raya Bulakamba 9 Bulakamba Brebes 52253
+Brebes,Jawa Tengah,KK LPO Jatibarang,Jl. Raya Timur No.145 Jatibarang Brebes 52261
+Brebes,Jawa Tengah,KK LPO Ketanggungan,"Jl. Ahmad Yani 123 Ketanggungan, Brebes 52263"
+Brebes,Jawa Tengah,KK LPO Tanjung Brebes,Jl. Cemara No.414 Tanjung Brebes 52254
+Cilacap,Jawa Tengah,KCP Cilacap,"Komp. Pertokoan Pasar Gede Blok A-3, Cilacap 53213"
+Cilacap,Jawa Tengah,KK LPO Cilacap,Jl. A. Yani No.32 Cilacap
+Demak,Jawa Tengah,KCP Demak,Jln. Sultan Fatah No. 4B Demak
+Grobogan,Jawa Tengah,KK Purwodadi,"Jln. R. Soeprapto No. 39A Kel. Purwodadi, Kab. Grobogan Jawa Tengah"
+Jepara,Jawa Tengah,KK LPO Bangsri Jepara,Jl.Raya Bangsri Jepara No.89 Jepara 59453
+Jepara,Jawa Tengah,KK LPO Jepara,"Jl. Yos Sudarso No. 21, Jepara 59400"
+Jepara,Jawa Tengah,KK LPO Pecangaan,Jl.Raya Pecangaan No.64 Jepara 59462
+Karanganyar,Jawa Tengah,KCP Palur,"Jl. Raya Solo-Tawangmangu Ruko No. 14 Palur-Jaten, Karanganyar 57772"
+Karanganyar,Jawa Tengah,KK LPO Karanganyar,Jl. Lawu No.8 Karanganyar
+Karanganyar,Jawa Tengah,KLS Palur,Jl. Raya Palur No. 38 Karanganyar 57772
+Kebumen,Jawa Tengah,KCP Kebumen,Jl. Pahlawan No. 141 Kebumen 54311
+Kebumen,Jawa Tengah,KK LPO Gombong,Jl. Dewi Sartika No.66 Gombong 54411
+Kebumen,Jawa Tengah,KK LPO Prembun,Jl. Raya No.73 Prembun 54394 Kebumen
+Kendal,Jawa Tengah,KC Kendal,"Jl. Pemuda No 33 Kel. Pegulon , Kec. Kendal , Kab. Kendal, Jawa Tengah"
+Kendal,Jawa Tengah,KK LPO Kendal,"Jl. Raya Kendal No. 224, Kendal 51300"
+Klaten,Jawa Tengah,KCP Klaten,Jl. Pemuda Utara No : 117 Klaten
+Klaten,Jawa Tengah,KK LPO Delanggu,Jl. Raya Delanggu No.234 Delanggu Klaten 57471
+Klaten,Jawa Tengah,KK LPO Klaten,Jl. Pemuda No. 199 Klaten
+Klaten,Jawa Tengah,KLS Klaten,Jl. Veteran No : 58 Klaten 57412
+Kudus,Jawa Tengah,KCP Kudus,"Jl. Ahmad Yani No : 45 Kel. Panjunan, Kec. Kota, Kab. Kudus Jawa Tengah 59312"
+Kudus,Jawa Tengah,KK LPO Jati,Rt.001/01 Tanjung Karang Jati Kudus 59371
+Kudus,Jawa Tengah,KK LPO Kudus,"Jl. Jendral Sudirman No. 43, Kudus 59300"
+Kudus,Jawa Tengah,KLS Kudus,Jl. Sudirman No. 3A – Kudus 59312
+Magelang,Jawa Tengah,KCP Magelang,"Jl. Ahmad Yani No 3 A Ruko Metro Square Blok F4-F5 Mertoyudan, Magelang"
+Magelang,Jawa Tengah,KK LPO Blabak,Jl. Raya Blabak 1 Magelang 56552
+Magelang,Jawa Tengah,KK LPO Borobudur,Jl. Pramudya Wardani No.1 Borobudur 56553
+Magelang,Jawa Tengah,KK LPO Magelang,Jl. Jend A.Yani No. 2 Magelang 56100
+Magelang,Jawa Tengah,KK LPO Muntilan,Jl. Dr.Sutomo No.12 Muntilan 56400
+Magelang,Jawa Tengah,KLS Magelang,"Jl. Ahmad Yani No 3 A, Ruko Metro Square Blok F4-F5 Mertoyudan Magelang"
+Pati,Jawa Tengah,KCP Pati,"Jl. Jendral Sudirman No 88 Pati, Jawa Tengah"
+Pati,Jawa Tengah,KK LPO Pati,"Jl. Panglima Sudirman No.6, Pati 59100"
+Pekalongan,Jawa Tengah,KC Pekalongan,"Jl. Merdeka No. 7 Pekalongan 51113 , Pekalongan"
+Pekalongan,Jawa Tengah,KK Kedung Wuni,"Kedung Wuni, Pekalongan"
+Pekalongan,Jawa Tengah,KK LPO Kajen,"Jl. P Mandurorejo No.347 Kajen 51161, Pekalongan"
+Pekalongan,Jawa Tengah,KK LPO Pekalongan,Jl. Cendrawasih No.1 Pekalongan 51124
+Pekalongan,Jawa Tengah,KK LPO Wiradesa,Jl S.Parman No.176 wiradesa Pekalongan 51152
+Pekalongan,Jawa Tengah,KLS KC Pekalongan,Jl. Hayam Wuruk No. 15 Pekalongan 51118
+Pemalang,Jawa Tengah,KK LPO Comal,Jl Jend Sudirman No.1 Comal Pemalang 52363
+Pemalang,Jawa Tengah,KK LPO Pemalang,Jl. Ahmad Yani No. 3 Pemalang 52300
+Pemalang,Jawa Tengah,KK LPO Petarukan,Jl. Pemuda No.30 Petarukan Pemalang 52362
+Pemalang,Jawa Tengah,KK LPO Randudongkal,Jl Jend Sudirman No.356 Randudongkal Pemalang 52253
+Pemalang,Jawa Tengah,KK Pemalang,"Jl. Jend. Sudirman Timur, Wanareja Utara Taman – Pemalang"
+Purbalingga,Jawa Tengah,KCP Purbalingga,Ruko A. Yani Blok A-B Jl. Jend. Achmad Yani No. 63 Purbalingga – Jawa Tengah
+Purbalingga,Jawa Tengah,KK LPO Purbalingga,Jl. Alun Alun Utara No.2 Purbalingga
+Purworejo,Jawa Tengah,KK LPO Purworejo,"Jl. Jend. Ahmad Yani No. 2, Purworejo 54111"
+Purworejo,Jawa Tengah,KK LPO Kutoarjo,Jl. Kantor Pos No.5 Kutoarjo 54212 Jawa Tengah
+Salatiga,Jawa Tengah,KCP Salatiga,"Jl. Diponegoro No.4, Salatiga Jawa Tengah"
+Salatiga,Jawa Tengah,KK LPO Salatiga,"Jl. M.Yamin No. 3, Salatiga 50711"
+Semarang,Jawa Tengah,KC Semarang,Jl. MT. Haryono 717  Semarang JT 50242
+Semarang,Jawa Tengah,KCP Banyumanik,Jl. Jati Raya No. 1  Semarang JT 50268
+Semarang,Jawa Tengah,KCP Karang Ayu,Jl. MGR. Soegiyopranoto No. 49  Semarang JT 50141
+Semarang,Jawa Tengah,KCP Majapahit,Jl. Majapahit No. 400  Semarang JT 50258
+Semarang,Jawa Tengah,KCP Ngaliyan,Jl. Ngaliyan Raya No. 10  Semarang JT
+Semarang,Jawa Tengah,KCP RS dr KARIADI,Jl. Ngaliyan Raya No. 10  Semarang JT
+Semarang,Jawa Tengah,KCP RS KARIADI,JL. DR. Sutomo No. 16  Semarang Selatan JT 56117
+Semarang,Jawa Tengah,KCP Tlogosari,Jl. Tlogosari II No. 1  Semarang JT 50196
+Semarang,Jawa Tengah,KCP UNDIP Tembalang,"Jl. Prof Sudarto,SH No. 55  Tembalang  Semarang JT"
+Semarang,Jawa Tengah,KK Abdulrachman Saleh,Jl. Abdulrachman Saleh No. 32B  Semarang JT
+Semarang,Jawa Tengah,KK BSB,Komp. Ruko Jatisari Indah II Blok C3  BSB Mijen  Jl. Jatisari  Semarang JT
+Semarang,Jawa Tengah,KK Kedung Mundu,Komp. Ruko  Jl. Kedung Mundu Raya No. 511B  Semarang JT
+Semarang,Jawa Tengah,KK Ketileng,Jl. Ketileng Raya No. 42E  Semarang JT
+Semarang,Jawa Tengah,KK LPO Bojongsari Semarang,Jl. Kangguru Raya No.1  Semarang JT 50161
+Semarang,Jawa Tengah,KK LPO Semarang,Jl. Pemuda No. 4  Semarang JT
+Semarang,Jawa Tengah,KK LPO SEMARANG BONGSARI,Jl. Pamurlasih Kav .19  Semarang JT 50184
+Semarang,Jawa Tengah,KK MH Thamrin,Jl. MH. Thamrin 49  Semarang JT
+Semarang,Jawa Tengah,KK Plamongan Indah,Jl. Kelapa Gading Raya No. 27  Semarang JT
+Semarang,Jawa Tengah,KK Pucang Gading,Jl. Pucang Gading Raya No. 15 A  Perumnas Pucang Gading  Semarang JT
+Semarang,Jawa Tengah,KK Sampangan,Jl. Lamongan Raya No. 4C  Semarang
+Semarang,Jawa Tengah,KK Srondol,Jl. Setiabudi No. 148  Kel. Sumurboto  Kec. Banyumanik  Semarang ‘JT
+Semarang,Jawa Tengah,KK Suari,Jl. Suari No. 7C  Kel. Purwodinatan  Kec. Semarang Tengah  Semarang JT 50137
+Semarang,Jawa Tengah,KK Sultan Agung,Jl. Sultan Agung No. 104-106  Ruko No. 2  Semarang JT
+Semarang,Jawa Tengah,KK Woltermonginsidi,Jl. Woltermonginsidi No. 7  Semarang JT
+Sragen,Jawa Tengah,KK LPO Sragen,Jl. Raya Sukowati No. 193 Sragen
+Sukoharjo,Jawa Tengah,KCP Sukoharjo,"Jl. Jendral Sudirman 63, Sukoharjo"
+Sukoharjo,Jawa Tengah,KK Gentan,"Ruko RCTI No. 4 Baki, Gentan Sukoharjo"
+Sukoharjo,Jawa Tengah,KK Kertosuro,Jl. Adi Sumarmo Ruko Anugrah No. 3 Kartosuro – Sukoharjo
+Sukoharjo,Jawa Tengah,KK LPO Sukoharjo,Jl. Wandyopranoto No.12 Sukoharjo
+Surakarta ( Solo ),Jawa Tengah,KC Solo,Jl. Slamet Riyadi No. 282 Solo 57141
+Surakarta ( Solo ),Jawa Tengah,KCP Klkcp Solo,"Jl. Jendral Sudirman No. 8, Solo"
+Surakarta ( Solo ),Jawa Tengah,KCP Mojosongo,Jl. Malabar Utara No. 11 – 14 Mojosongo jebres Solo 57127
+Surakarta ( Solo ),Jawa Tengah,KCP Uns Solo,"Gedung LPKWU – Kampus UNS, Jl. Ir Sutami 36 A, Solo 57126 , Solo"
+Surakarta ( Solo ),Jawa Tengah,KK LPO Solo,Jl. Jend Sudirman No.8 Solo
+Surakarta ( Solo ),Jawa Tengah,KK LPO Nusukan Solo,Jl. Mangun Sarkoro No.19 Nusukan Solo 57135
+Surakarta ( Solo ),Jawa Tengah,KCS Solo,Jl. Brigjen Slamet Riyadi No. 332 Solo 57141
+Surakarta ( Solo ),Jawa Tengah,KLS KC Solo,Jl. Slamet Riyadi No. 282 Solo 57141
+Tegal,Jawa Tengah,KCP Tegal,"Pacific Mall Ruko No. 10, Jl. Mayjen Sutoyo No. 35 – Tegal"
+Tegal,Jawa Tengah,KK LPO Adiwerna,Jl. Raya utara adiwerna No.105 Tegal 52194
+Tegal,Jawa Tengah,KK LPO Margasari,Jl. Raya Margasari No.50 Tegal 52463
+Tegal,Jawa Tengah,KK LPO Slawi,Jl. Kemiri No. 5 Slawi – Tegal 52100
+Tegal,Jawa Tengah,KK LPO Tegal,Jl. Proklamasi No. 2 Tegal 52100
+Tegal,Jawa Tengah,KK LPO Tegal Selatan,Jl. Kapten Sudibyo No.119 Tegal 52131
+Tegal,Jawa Tengah,KCS Tegal,"Jl. Gajah Mada No. 107 , Kel. Pekauman, Kec. Tegal Barat Kota Tegal – Jawa Tengah 52113"
+Temanggung,Jawa Tengah,KK LPO Parakan,Jl. Brig.Jend.KatamsoNo.49 ParakanTemanggung 56254
+Temanggung,Jawa Tengah,KK LPO Temanggung,Jl. S. Parman No. 5 Temanggung 56212
+Ungaran,Jawa Tengah,KCP Ungaran,Komp. Ruko Ungaran Square No. 7 Jl. Diponegoro No. 745 Ungaran JT
+Ungaran,Jawa Tengah,KK LPO Ungaran,Jl. MT Haryono No. 10 Ungaran JT 50511
+Wonogiri,Jawa Tengah,KK LPO Baturetno,Jl. Raya Baturetno No.05 Wonogiri 57673
+Wonogiri,Jawa Tengah,KK LPO Wonogiri,Jl. A. Yani No. 168 Wonogiri
+Wonosobo,Jawa Tengah,KK LPO Wonosobo,Jl. Pemuda No. 9 Wonosobo 56311
+Bangkalan,Jawa Timur,KC Bangkalan,"Jl. Teuku Umar No. 16, Kel. Kemayoran, Kec. Bangkalan 69116"
+Bangkalan,Jawa Timur,KK Kamal,Jl. Raya UTM Telang Kamal Bangkalan
+Bangkalan,Jawa Timur,KK LPO Balega,"Jl. Raya Blega No. 8 Blega 69174, Bangkalan"
+Bangkalan,Jawa Timur,KK LPO Bangkalan,Jl. Trunojoyo No. 24 Bangkalan 69111
+Bangkalan,Jawa Timur,KK LPO Kamal,Jl. Trunojoyo No. 19 Kamal Bangkalan 69162
+Banyuwangi,Jawa Timur,KCP Banyuwangi,Jl. Jend. Sudirman No. 01 Banyuwangi
+Banyuwangi,Jawa Timur,KK LPO Banyuwangi,Jl. Diponegoro No.1 Banyuwangi
+Batu,Jawa Timur,KK Batu,Jl. Panglima Sudirman No. 21 Batu Jawa Timur
+Blitar,Jawa Timur,KCP Blitar,Jl. Merdeka No. 90 Blitar – Jawa Timur
+Blitar,Jawa Timur,KK LPO Sanawetan,Jl. Pramuka No.5 Sanawetan Blitar 66133
+Blitar,Jawa Timur,KK LPO Gandusari,"Jl. Kawi No.27 Gandusari, Blitar 66187"
+Blitar,Jawa Timur,KK LPO Kesamben,Jl. Raya 2 Kesamben Blitar 66191
+Blitar,Jawa Timur,KK LPO Lodoyo,Jl. Raya Utara No.23 Lodoyo Blitar 66172
+Blitar,Jawa Timur,KK LPO Wlingi,"Jl. A. Yani No.16 Wlingi, Blitar 66184"
+Bojonegoro,Jawa Timur,KCP Bojonegoro,"Komplek Pertokoan KAI Kav. 13-15, Jl. Gajah Mada Bojonegoro"
+Bojonegoro,Jawa Timur,KK LPO Bojonegoro,Jl. Trunojoyo No. 1 Bojonegoro
+Bondowoso,Jawa Timur,KK Bondowoso,Jl. A. Yani No. 12 Bondowoso
+Bondowoso,Jawa Timur,KK LPO Bondowoso,Jl. Jaksa Agung Suprapto No.9 Bondowoso
+Gresik,Jawa Timur,KC Gresik,"Komp. Pertokoan Multi Sarana Plaza Blok C 01 No. 1 Jl. Gubernur Suryo, Gresik 61118"
+Gresik,Jawa Timur,KK Cerme Lor,Jl. Raya Cerme Lor No. 23 Kec. Cerme Kab. II Gresik
+Gresik,Jawa Timur,KK LPO Driyorejo,Jl. Raya Driyorejo no.46 Gresik 61177
+Gresik,Jawa Timur,KK LPO Gresik,Jl. Dr. Sutomo No. 133 Gresik
+Gresik,Jawa Timur,KK LPO Pelabuhan,Jl. Jend. Basuki Rahmat no.23 Gresik 61114A
+Gresik,Jawa Timur,KLS KC Gresik,"Komp. Pertokoan Multi Sarana Plaza blok C1 No. 1, Jl. Gubernur Suryo, Gresik 61118"
+Jember,Jawa Timur,KC Jember,Jl. A. Yani No. 05 Jember 68118
+Jember,Jawa Timur,KK LPO Ambulu,Jl. Watu Ulo No.35 Ambulu Jember
+Jember,Jawa Timur,KK LPO Jember,Jl. Sudirman No.3 Jember 68100
+Jember,Jawa Timur,KK LPO Tanggul,Jl. Diponegoro No.6 Tanggul Jember
+Jember,Jawa Timur,KK Universitas Negeri Jember,Pertokoan Java Square No. 14 Jl. Jawa Jember 
+Jombang,Jawa Timur,KCP Jombang,Jl. KH. Wachid Hasyim No. 19 F Jombang 
+Jombang,Jawa Timur,KK LPO Cukir Diwek,Jl. Mojowarno no.84 Cukir Diwek Jombang 61471
+Jombang,Jawa Timur,KK LPO Jombang,Jl. KH. Wahid Hasyim No. 184 Jombang
+Jombang,Jawa Timur,KK LPO Mojoagung,Jl. Raya Gambiran no.178 Mojoagung Jombang 61482
+Jombang,Jawa Timur,KCPS Jombang,"Jl. Wahid Hasyim No. 85, Jombang – Jawa Timur"
+Kediri,Jawa Timur,KC Kediri,Jl. Diponegoro No. 22 – 24 Kediri 64121
+Kediri,Jawa Timur,KK LPO Grogol Kediri,Jln Raya Gringging No.115 Grogol Kediri 64151
+Kediri,Jawa Timur,KK LPO Gurah,Jln. Kolonel Seruji 420 Gurah Kediri 64181
+Kediri,Jawa Timur,KK LPO Kediri,Jl. Mayjen Sungkono No. 32 Kediri 64100
+Kediri,Jawa Timur,KK LPO Ngronggo,Jln. Kapten Tendean No.125 Kediri 64127 A
+Kediri,Jawa Timur,KK LPO Kepung,Jln. Arumdalu 2 Kepung Kediri 64293
+Kediri,Jawa Timur,KK LPO Mojo,Jalan Raya Mojo No.108 Mojo Kediri 64162
+Kediri,Jawa Timur,KK LPO Ngadiluwih,Jln. Raya Ngadiluwih No.151 Kediri 64171
+Kediri,Jawa Timur,KK LPO Pagu,Jln. Supriyadi No.128 Pagu Kediri 64181
+Kediri,Jawa Timur,KK LPO Pare,"Jl. WR Supratman No.3 Pare 64200 , Kediri"
+Kediri,Jawa Timur,KK LPO Wates Kediri,Jl. Kelud No.17 Wates Kediri 64174 
+Lamongan,Jawa Timur,KK Lamongan,Komp. Ruko Permata Lamongan Kav. No. 12 Jl. Panglima Sudirman – Lamongan
+Lamongan,Jawa Timur,KK LPO Lamongan,Jl. Ki Sarmidi MS No.1 Lamongan
+Lumajang,Jawa Timur,KK LPO Lumajang,Jl. Dr. Sutomo No. 19 Lumajang
+Madiun,Jawa Timur,KC Madiun Sutomo,Jln. Dr. Sutomo No. 38 Madiun
+Madiun,Jawa Timur,KC Madiun Agus Salim,Jl. H. Agus Salim No. 90 Madiun 63129
+Madiun,Jawa Timur,KK LPO Caruban,Jl. Jendral Sudirman No.63 Caruban 63153
+Madiun,Jawa Timur,KK LPO Dolopo,Jln. Raya Ponorogo Dolopo Madiun 63174
+Madiun,Jawa Timur,KK LPO Jiwan,JL. Raya Solo Jiwan Madiun 63161
+Madiun,Jawa Timur,KK LPO Madiun,Jl. Pahlawan No.24 madiun 63100
+Madiun,Jawa Timur,KK LPO Manisrejo,Jl Tanjung Raya No.51 Manisrejo Madiun 63138
+Madiun,Jawa Timur,KK Mastrip,Jl. Mastrip No. 50 Madiun – Jatim 63117
+Magetan,Jawa Timur,KK LPO Magetan,Jl. A. Yani No. 62 Magetan 63311
+Magetan,Jawa Timur,KK Magetan,Jl. P. Sudirman No. 03 Magetan – Jatim 63318
+Malang,Jawa Timur,KC Malang,Jl. Ade Irma Suryani No. 2-4 Malang 65119
+Malang,Jawa Timur,KCP Jaksa Agung Suprapto,"Jl. Jaksa Agung Suprapto No. 54 , Malang"
+Malang,Jawa Timur,KCP Sawojajar,Perum Perumnas Sawojajar Jl. Danau Toba No. 01 Malang 65139
+Malang,Jawa Timur,KCP Sukarno Hatta,"Ruko Sukarno – Hatta Business Centre (SBC) Kav. 8-9 Jl. Sukarno – Hatta , Malang"
+Malang,Jawa Timur,KCP UIN Malang,"Universitas Islam Negeri Malang Jl. Gajayana No. 50, Malang"
+Malang,Jawa Timur,KCP Unibraw,"Universitas Brawijaya Gd. IKA Jl. Veteran No. 16 A , Malang"
+Malang,Jawa Timur,KK Dau,"Jl. Raya Jetis No. 15 C, Dau Malang"
+Malang,Jawa Timur,KK Kapanjen,Jln .Sultan Agung No. 25 Kapanjen Malang
+Malang,Jawa Timur,KK Kawi,"Jln. Kawi Atas No. 36A Gading Kasri, Klojen Malang 65116"
+Malang,Jawa Timur,KK Lawang,Jl. M.H. Thamrin No. 36 Lawang Malang
+Malang,Jawa Timur,KK LPO Bululawang,Jl.H.Ilyas 5 Bululawang Malang 65171 
+Malang,Jawa Timur,KK LPO Kepanjen,Jl. Kawi 30 Kepanjen Malang 65163
+Malang,Jawa Timur,KK LPO Lawang,"Jl. Thamrin No. 27 Lawang , Malang"
+Malang,Jawa Timur,KK LPO Malang,Jl. Merdela Selatan No.5 Malang 
+Malang,Jawa Timur,KK LPO Blimbing,Jl.Terusan Borobudur 24 Malang 65128
+Malang,Jawa Timur,KK LPO IKIP Malang,Jl. Gombong 1 Malang 65114
+Malang,Jawa Timur,KK LPO Purwantoro,Jl. Aluminium 15 Malang 65122
+Malang,Jawa Timur,KK LPO Sumber Pucung,Jl. Jend.Sudirman No.146 Sumber Pucung Malang 65165
+Malang,Jawa Timur,KK LPO Tumpang,"Jl. Raya Tumpang 45 Tumpang 65156 , Malang"
+Malang,Jawa Timur,KK LPO Turen,Jl. Ahmad Yani No.155 Turen Malang 65175
+Malang,Jawa Timur,KK Singosari,"Jln. Panglima Sudirman No. 148 Kav. C, Singosari Malang"
+Malang,Jawa Timur,KK Sukun,"Jl. Kebonsari No. 10 A, Sukun Malang "
+Malang,Jawa Timur,KK Sulfat,"Jln. Sulfat Kav H-10, Purwantoro Blimbing, Malang 65122"
+Malang,Jawa Timur,KK Widyagama,Kampus Univ. Widyagama Jln. Borobudur No. 5 Kec. Blimbing Malang
+Malang,Jawa Timur,KCS Malang,"Jl. Bandung No. 40, Kel. Penanggung, Kec. Klojen Malang"
+Malang,Jawa Timur,KCPS sukarno Hatta,"Ruko Sukarno – Hatta Business Centre (SBC) Kav. 8-9 Jl. Sukarno – Hatta , Malang"
+Malang,Jawa Timur,KLS Sawo Jajar,"Perum Perumnas Sawojajar, Jl. Danau Toba No. 01 Malang 65139"
+Mojokerto,Jawa Timur,KCP Mojokerto,"Jl. Majapahit No. 130 – 134 Blok 1-2, Mojokerto 61323"
+Mojokerto,Jawa Timur,KK LPO Brangkal,Jl. Perjuangan no.309 Brangkal Mojokerto 61361
+Mojokerto,Jawa Timur,KK LPO Mojokerto,Jl. A.Yani No. 5 Mojokerto
+Mojokerto,Jawa Timur,KK LPO Mojosari,Jl. Raya Masjid no.09 Mojosari Mojokerto 61382
+Mojokerto,Jawa Timur,KK LPO Ngoro,Jl. Raya Sedati Ngoro Mojokerto 61385
+Mojokerto,Jawa Timur,KK Mojosari,Ruko Royal Adipura Kav. B-02 Jl. Gajah Mada No. 05 Kab. Mojokerto
+Mojokerto,Jawa Timur,KLS Mojokerto,"Jl. Majapahit No. 130 – 134 Blok1-2, Mojokerto 61323"
+Nganjuk,Jawa Timur,KK LPO Nganjuk,Jl. Supriadi No.19 Nganjuk 64411 
+Nganjuk,Jawa Timur,KK LPO Warujayeng,Jalan A.Yani No.105 Warujayeng Nganjuk 64483
+Nganjuk,Jawa Timur,KK Nganjuk,Jl. Dermojoyo No. 9 Nganjuk – Jawa Timur 
+Ngawi,Jawa Timur,KK LPO Ngawi,"Jl. Jaksa Agung Suprapto, Ngawi "
+Pacitan,Jawa Timur,KK LPO Pacitan,Jl. Ronggowarsito No.11 Pacitan 
+Pamekasan,Jawa Timur,KK LPO Pamekasan,Jl. Masigit No. 3 Pamekasan 69311
+Pamekasan,Jawa Timur,KK Pamekasan,Jl. Kabupaten No. 79 Pamekasan
+Pasuruan,Jawa Timur,KCP Pasuruan,Jl. Panglima Sudirman No. 14 A PASURUAN – 67115 
+Pasuruan,Jawa Timur,KK LPO Gempol,Jl. Mawar 1 Pasuruan 67155
+Pasuruan,Jawa Timur,KK LPO Pasuruan,Jl. Alun-alun Utara No.1 Pasuruan 
+Pasuruan,Jawa Timur,KK LPO Prigen,Jl. Raya Jagil No.157 Prigen Pasuruan 67157
+Pasuruan,Jawa Timur,KK Taman Dayu,Komplek Ruko Taman Dayu Blok D No. 10 Kec. Pandaan Kab. Pasuruan 67156 
+Pasuruan,Jawa Timur,KLS Pasuruan,Jl. Panglima Sudirman No. 14 A PASURUAN – 67115
+Ponorogo,Jawa Timur,KCP Ponorogo,Jl. Soekarno Hatta No. 299 Ponorogo
+Ponorogo,Jawa Timur,KK LPO Ponorogo,Jl. Soekarno Hatta No. 55 Ponorogo 63411 
+Probolinggo,Jawa Timur,KCP Probolinggo,"Jl. Sukarno Hatta No. 249 Ruko Blok D-E Kelurahan Curahgrinting Kec. Kanigaran, Probolinggo"
+Probolinggo,Jawa Timur,KK LPO Kraksaan,Jl. P.Sudirman 331 Kraksaan Probolinggo 
+Probolinggo,Jawa Timur,KK LPO Probolinggo,Jl. Sutoyo No.33 Probolinggo 
+Sampang,Jawa Timur,KK LPO Sampang,Jl. Pahlawan No.2 Sampang 69211
+Sidoarjo,Jawa Timur,KC Sidoarjo,Jl. Ahmad Yani No. 15 – Sidoarjo
+Sidoarjo,Jawa Timur,KCP Krian,Ruko Krianindo Blok FF Jl. Basuki Rachmat No. 428 Krian – Sidoarjo
+Sidoarjo,Jawa Timur,KCP Pondok Candra Indah,"Jl. Palem TC 14 Pondok Candra Indah, Sidoarjo"
+Sidoarjo,Jawa Timur,KK LPO Gedangan,Jl. Blimbing no.6 Ketajen Gedangan Sidoarjo 61254
+Sidoarjo,Jawa Timur,KK LPO Krian,Jl. Magersari no.01 Krian sidoarjo 61262
+Sidoarjo,Jawa Timur,KK LPO Porong,Jl. H.Agus Salim no.10 Porong Sidoarjo 61274
+Sidoarjo,Jawa Timur,KK LPO Sidoarjo,Jl. Sultan Agung No.48 Sidoarjo
+Sidoarjo,Jawa Timur,KK Sepanjang,"Ruko Town House Jl. Kalijaten Blok A No. 8 Sepanjang, Sidoarjo – Jatim"
+Sidoarjo,Jawa Timur,KK Tropodo,Ruko Tropodo Jl. Raya Tropodo Blok. A-02 Kab. Sidoarjo 
+Sidoarjo,Jawa Timur,KK Waru,Ruko Gateway Jl. Raya Waru Blok. B-03 Kab. Sidoarjo
+Sidoarjo,Jawa Timur,KLS KC Sidoarjo,Jl. Ahmad Yani No. 15 – Sidoarjo 
+Sidoarjo,Jawa Timur,KLS KC Sidoarjo,Jl. K. H. Mukmin no. 11 B.5 Sidoarjo 61214
+Sidoarjo,Jawa Timur,KLS Pondok Candra,Jl. Palem TC 14 Pondok Tjandra Sidoarjo 61256
+Sidoarjo,Jawa Timur,KK Syariah Sidoarjo,"Jl.Ahmad Yani No.3G, Kelurahan Pucung, Kecamatan Sidoarjo, Sidoarjo"
+Situbondo,Jawa Timur,KK LPO Asembagus,"Jl. Raya Asembagus No.1 Asembagus, Situbondo 68373"
+Situbondo,Jawa Timur,KK LPO Panarukan,"Jl. PB Sudirman No.131 Panarukan, Situbondo 68351"
+Situbondo,Jawa Timur,KK LPO Situbondo,Jl. A.Yani No.131 Situbondo 68311
+Situbondo,Jawa Timur,KK Situbondo,Jl. Argopuro No. 28 C Situbondo
+Sumenep,Jawa Timur,KCP Sumenep,Jl. Trunojoyo No. 140 Sumenep
+Sumenep,Jawa Timur,KK LPO Sumenep,Jl. Urip Sumohardjo No. 5 Sumenep 69411
+Surabaya,Jawa Timur,KC Jemursari,"Jl. Raya Jemursari No. 76 Blok B-7, Surabaya"
+Surabaya,Jawa Timur,KC Surabaya,Jl. Pemuda No. 50 Surabaya 60271
+Surabaya,Jawa Timur,KC Bukit Darmo,Jl. Bukit Darmo Golf Blok 1 No. 07 Surabaya
+Surabaya,Jawa Timur,KCP Babatan Wiyung,"Jl. Menganti No. 11 Kav. 4, Babatan Wiyung, Surabaya"
+Surabaya,Jawa Timur,KCP Bubutan,"Jl. Bubutan No. 20C Kav. J No. 16-22, Surabaya"
+Surabaya,Jawa Timur,KCP IAIN Sunan Ampel,"Jl. Ahmad Yani No. 17, Surabaya 60243"
+Surabaya,Jawa Timur,KCP Mayjen Sungkono,Jl. Mayjen. Sungkono Darmo Park 1 Blok 3A / 12 Surabaya 60225
+Surabaya,Jawa Timur,KCP Mulyosari,Jl. Raya Mulyosari No. 82-82A Surabaya 60112
+Surabaya,Jawa Timur,KCP Satelite Town Square,Ruko Satelite Town Square Blok A-5 No. 22 Jl. Raya Suko Manunggal Surabaya
+Surabaya,Jawa Timur,KCP Tandes,Jl. Manukan Lor No. 3 Surabaya 60185
+Surabaya,Jawa Timur,KCP UNAIR,Jl. Airlangga No. 4 Surabaya 60286
+Surabaya,Jawa Timur,KK Darmo,Jl. Raya Darmo No. 123 – 128 Surabaya
+Surabaya,Jawa Timur,KK Demak Surabaya,Jl. Kalibutuh No. 41 Surabaya
+Surabaya,Jawa Timur,KK Dharmahusada,Jln. Dharmahusada No. 119C Surabaya
+Surabaya,Jawa Timur,KK Gubeng,Jl. Karimun Jawa Kav. 6 Surabaya
+Surabaya,Jawa Timur,KK Gunung Sari,Jl.Gunung Sari No.5 D – Surabaya
+Surabaya,Jawa Timur,KK Institut Teknologi Sepuluh Nopember,Kampus ITS Gd. SCC Lt. II Jl. Arif Rahman Hakim Keputih Sukolilo Surabaya
+Surabaya,Jawa Timur,KK Kalirungkut,Jln. Raya Kalirungkut No. 155 I Surabaya
+Surabaya,Jawa Timur,KK Kapas Krampung,Jl. Pasar Krampung No. 63 Surabaya
+Surabaya,Jawa Timur,KK Kapasari,Jln. Raya Pecindilan No. 44 Surabaya
+Surabaya,Jawa Timur,KK Kepatihan, 
+Surabaya,Jawa Timur,KK Kertajaya,Jln. Raya Kertajaya No. 70C Surabaya
+Surabaya,Jawa Timur,KK KH Mas Mansyur,Jl. KH. M Mansyur No. 236 A Surabaya 
+Surabaya,Jawa Timur,KK Klampis Jaya,Jl. Raya Klampis No. 45 C Surabaya
+Surabaya,Jawa Timur,KK Lakarsantri,Jl. Raya Lakarsantri No.83 Surabaya
+Surabaya,Jawa Timur,KK LPO Benowo,Jl. Raya Benowo no.2-B Surabaya 60195A
+Surabaya,Jawa Timur,KK LPO Dukuh Kupang Barat,"Jl. Dukuh Kupang Barat Komp.UWK, Surabaya"
+Surabaya,Jawa Timur,KK LPO Gubeng,Jl. Jawa No. 42 Surabaya
+Surabaya,Jawa Timur,KK LPO ITATS,"Jl. Deles Gg.Lebar 5, Surabaya"
+Surabaya,Jawa Timur,KK LPO Kebon Rejo,Jl. Kebon Rojo No. 10 Surabaya
+Surabaya,Jawa Timur,KK LPO Kertajaya,Jl. Kertajaya Indah Blok G-504 Surabaya 60116A
+Surabaya,Jawa Timur,KK LPO Krembangan / S.GR,Jl. Krembangan Barat No. 73-75 Surabaya
+Surabaya,Jawa Timur,KK LPO Sawahan,Jl. Simogunung Barat tol Surabaya 60252A
+Surabaya,Jawa Timur,KK LPO Selatan Lidah Kulon,"Wisma Lidah Kulon Blok A/14, Surabaya"
+Surabaya,Jawa Timur,KK LPO Sidotopo,Jl. Wonosari Lor 1/18 Surabaya
+Surabaya,Jawa Timur,KK LPO Simokerto,Jl. Tambakrejo No.93 Surabaya 60142A
+Surabaya,Jawa Timur,KK LPO Simpang,"Jl. Taman Apsari No. 1, Surabaya"
+Surabaya,Jawa Timur,KK LPO Sukolilo,Jl. Wisma Permai No.100 Surabaya
+Surabaya,Jawa Timur,KK LPO Surabaya Selatan,"Jl. Jemur Handayani No. 75, Surabaya"
+Surabaya,Jawa Timur,KK LPO Tandes,Jl. Raya Bibis No. 27 Surabaya
+Surabaya,Jawa Timur,KK LPO UNTAG,Jl. Semolowaru No. 45 Surabaya
+Surabaya,Jawa Timur,KK LPO Wonocolo,"Jl. Gayung Kebon Sari No. 42, Surabaya"
+Surabaya,Jawa Timur,KK LPO Wonokromo,"Jl. Bendul Merisi No.10, Surabaya"
+Surabaya,Jawa Timur,KK Ngagel,"Ruko RMI , Jl. Ngagel Raya Blok G No. 9 – Surabaya"
+Surabaya,Jawa Timur,KK Nginden Semolo,"Ruko Manyar Garden Regency Jl.Nginden Semolo No.101 Kav.40, Surabaya"
+Surabaya,Jawa Timur,KK Pasar Atum Mall,Jln. Pasar Atum Mall Blok P59 Jln. Bunguran No. 45 Surabaya
+Surabaya,Jawa Timur,KK Pasar Kembang,Ruko Grand Flower Blok. 1 No. 4 Jl. Pasar Kembang Surabaya
+Surabaya,Jawa Timur,KK Perak Barat,Jln. Perak Barat No. 217A Surabaya
+Surabaya,Jawa Timur,KK Rungkut Madya,Jl. Rungkut Madya No. 99 B Surabaya
+Surabaya,Jawa Timur,KK Suramadu,"Jl. Kedung Cowek No. 161 A , Kel. Gading Kec. Tambaksari – Surabaya"
+Surabaya,Jawa Timur,KK Titian Kencana,Jl. Raya Lakarsantri No. 83 Surabaya
+Surabaya,Jawa Timur,KK Universitas Negeri Surabaya,Kampus Unesa Gd. H2 Ketintang Surabaya
+Surabaya – Syariah,Jawa Timur,KCS Surabaya,Jl. Diponegoro No. 29  Surabaya JI 60271
+Surabaya – Syariah,Jawa Timur,KCPS Surabaya,Jl. Embong Kenongo No.3  Surabaya JI 60271
+Surabaya – Syariah,Jawa Timur,KCPS Embong Kenongo,"Jl. Embong Kenongo No. 3,  Surabaya JI 60271"
+Surabaya – Syariah,Jawa Timur,KCPS Bukit Darmo,"Jl. Bukit Darmo Boulevard No. 10 B,  Surabaya JI"
+Surabaya – Syariah,Jawa Timur,KLS IAIN Sunan Ampel,Kampus IAIN Sunan Ampel  Jl. A Yani No. 17  Surabaya JI 60239
+Surabaya – Syariah,Jawa Timur,KLS Jemur Sari,"Jl. Raya Jemursari No. 76 Blok B-7,  Surabaya JI"
+Surabaya – Syariah,Jawa Timur,KLS Mayjen Sungkono,Jl. Mayjen. Sungkono  Darmo Park 1 Blok 3A / 12  Surabaya JI 60225
+Surabaya – Syariah,Jawa Timur,KLS Mulyosari,Jl. Raya Mulyosari No. 82-82A  Surabaya JI 60112
+Surabaya – Syariah,Jawa Timur,KLS Rungkut,Jl. Palem TC 14  Pondok Tjandra  Sidoarjo JI 61256
+Surabaya – Syariah,Jawa Timur,KLS Tandes,Jl. Manukan Lor No. 3  Surabaya JI 60185
+Surabaya – Syariah,Jawa Timur,KLS UNAIR,"Universitas Airlangga,  Jl. Airlangga No. 4-6,  Surabaya JI 60286"
+Surabaya – Syariah,Jawa Timur,KKS Ngagel,"Jl.Ngagel Jaya Selatan  Ruko RMI Blok B-1,  Kelurahan Barata, Kecamatan Gubeng,  Surabaya JI 60284"
+Trenggalek,Jawa Timur,KK Karangan,"Jl. Raya Karangan , kec. Karangan, kab. Trenggalek"
+Tuban,Jawa Timur,KCP Tuban,Jl. Sunan Kalijaga No. 20 A TUBAN – 62314
+Tuban,Jawa Timur,KK LPO Tuban,Jl. Sunan Bonang No. 8 Tuban
+Tulungagung,Jawa Timur,KCP Tulungagung,Komplek Pertokoan Panglima Sudirman Trade Center Blok A-5 Jl. Hasanudin Tulungagung
+Tulungagung,Jawa Timur,KK LPO Durenan,Jln Raya Kendal Rejo Durenan Tulungagung 66381
+Tulungagung,Jawa Timur,KK LPO Kedungwaru,Jl. Pahlawan Tulung agung 66226 A
+Tulungagung,Jawa Timur,KK LPO Tulungagung,Jl. Kartini No.31 Tulungagung 66200
+Banda Aceh,Aceh,KC Banda Aceh,"Jln. Sri Ratu Safiatuddin No. 19-23 Gampong – Peunayong, Banda Aceh"
+Banda Aceh,Aceh,KK Ulee Karang,"Jl. T. Iskandar Ulee Kareng , Banda Aceh"
+Banda Aceh,Aceh,KK Univ. Syah Kuala,"Gedung AAC Dayan Dawood, Jl.Teuku Nyak Arief Komplek Kampus Unsyiah – Banda Aceh, Banda Aceh"
+Jantho,Aceh,KK LPO Jantho,"Jl. T Bachtiar Panglima Polim SH Kota Jantho, kab. Aceh Besar 23911"
+Lhokseumawe,Aceh,KCP Lhokseumawe,Jl. Merdeka No. 2 Lhokseumawe 24351
+Lhokseumawe,Aceh,KK LPO Lhokseumawe,Jl. Samudra No. 1 Lhokseumawe 24300
+Sigli,Aceh,KK LPO Sigli,"Jl. Teuku Umar No.2 Sigli, kab. Pidie 24114"
+Koba,Bangka Belitung,KK LPO Koba,"Jl. Pos No.2 Koba, Bangka Tengah 33181"
+Muntok,Bangka Belitung,KK LPO Muntok,"Jl. Pegadaian Muntok, Bangka Barat 33311"
+Pangkal Pinang,Bangka Belitung,KC Pangkal Pinang,"Jl. Perniagaan, Mall Bangka Trade Center B11 – B14 – Pangkal Pinang"
+Pangkal Pinang,Bangka Belitung,KK LPO Pangkal Pinang,Jl. Jend. Sudirman No.18 Pangkal Pinang
+Sungailiat,Bangka Belitung,KK LPO Sungai Liat,"Jl. Jend.Sudirman No.24 Sungai Liat, kab. Bangka 33200"
+Tanjungpandan,Bangka Belitung,KK LPO Tanjung Pandan,"Jl. Merdeka No.12 Tanjung Pandan, kab. Belitung 33411"
+Toboali,Bangka Belitung,KK LPO Toboali,"Jl. Jend.Sudirman No.224 Toboali, kab. Bangka Selatan"
+Arga Makmur,Bengkulu,KK LPO Argamakmur,Jl. Dr.M.Hatta No.200 Argamakmur 38614
+Bengkulu,Bengkulu,KC Bengkulu,"Jln. Suprapto No. 7-8, Bengkulu"
+Bengkulu,Bengkulu,KK LPO Bengkulu,Jl. R.A. Hadi No.1 Bengkulu 38000
+Bengkulu,Bengkulu,KK LPO Bengkulu Baru Koto,l. Ra.Hadi No.3 Bengkulu 38111
+Curup,Bengkulu,KK LPO Curup,Jl. Kartini No.6 Curup 39100
+Manna,Bengkulu,KK LPO Manna,"Jl. Imam Bonjol No.1 Manna 38500,"
+Tais,Bengkulu,KK LPO Tais,Jl. Merdeka No.1 Tais Bengkulu 38576
+Batanghari,Jambi,KK Mersam,"Jl Jambi-Muara Bungo KM 101 , Mersam, Batanghari, Jambi"
+Batanghari,Jambi,KK Sungai Rengas,"Jl Jambi-Muara Bungo KM 125 , Sungai Rengas, kec. Maro Sebu Ulu, kab. Batanghari, Jambi"
+Jambi,Jambi,KC Jambi,Jl. H. M. Yusuf Singadikane No. 146 Jambi
+Jambi,Jambi,KCP Jelutung,"Jl. Sumatra No. 1, Kota Baru, Jambi 36137"
+Jambi,Jambi,KK Angso Duo,Jl. Sultan Thaha No. 153 Kel. Beringin Kec. Pasar Jambi 36113
+Jambi,Jambi,KK Aurduri,Perumnas Aurduri (Kantor PDAM) Jambi 
+Jambi,Jambi,KK LPO Jambi,"Jl. Sultan Thaha No.5, Jambi, Jambi"
+Jambi,Jambi,KK Mayang,"Jl. Rd. Syahbudin, Kel Simpamg III Sipin Kec. Kota Baru – Kota Jambi"
+Jambi,Jambi,KK Patimura,Jl Pattimura No 93 Jambi
+Jambi,Jambi,KK Simpang Rimbo,"Jl. Kapten Pattimura No. 02 Kel. Kenali Besar Kec. Kota Baru 36129 , Jambi"
+Muaro Bungo,Jambi,KCP Muara Bungo,"Jl. Lintas Sumatra No. 8 – 9, Kel. Batang Bungo, Muara Bungo – Jambi"
+Muaro Bungo,Jambi,KK LPO Muara Bungo,"Jl. Saleh Somad No.1, Muara Bungo, Jambi 37200"
+Muaro Jambi,Jambi,KK Sungai Bahar,"Pasar Sungai Bahar , Sungai Bahar, Muaro, Jambi"
+Sungai Penuh,Jambi,KK LPO Sungai Penuh,Jl. Jend. Sudirman No.1 Sungai Penuh Kerinci Jambi 37100
+Tanjung Jabung Barat,Jambi,KK Merlung,"Jl Merangin Lintas Timur Merlung Km 125 , Merlung, kab. Tanjung Jabung Barat, Jambi"
+Tanjung Jabung Barat,Jambi,KK Pelabuhan Dagang,"Jl Raden Usman No 10 Pelabuhan Dagang , Tungkal Ulu, Tanjung Jabung Barat, Jambi"
+Tebo,Jambi,KK LPO Rimbo Bujang,"Jl Pahlawan 130 Rimbo Bujang, kab. Tebo  37253, Jambi"
+Tebo,Jambi,KK Sungai Bengkal,"Jl. Jambi Muara Bungo KM 150 , Sungai Bengkal, kab. Tebo, Jambi"
+Bandar Jaya,Lampung,KCP Bandar Jaya,"Jl. Proklamator No. 29, Bandar Jaya Lampung Tengah 34162"
+Bandar Jaya,Lampung,KK LPO Bandar Jaya,Jl. Jendral A.Yani No.44 Bandar Jaya 34162
+Bandar Lampung,Lampung,KC Bandar Lampung,Jl. Wolter Monginsidi No. 80-88 Bandar Lampung 35215
+Bandar Lampung,Lampung,KCP Way Halim,"Jl. Kj. Maja Blok D No. 19 Way Halim, Bandar Lampung 35141"
+Bandar Lampung,Lampung,KK Beringin,"Jl. Beringin Raya, Kemiling Langkapura – Bandar Lampung"
+Bandar Lampung,Lampung,KK LPO Bandar Lampung,Jln.K.H.A. Dahlan No.21 Pahoman Bandar Lampung
+Bandar Lampung,Lampung,KK LPO Kedaton – Bandar Lampung,Jl. ZA Pagar Alam No.9 BandarLampung 35142
+Bandar Lampung,Lampung,KK LPO Panjang – Bandar Lampung,"Jl. Yos Sudarso No.10 , Panjang, Bandar Lampung 35243"
+Bandar Lampung,Lampung,KK LPO Teluk Betung – Bandar Lampung,"Jl. P. Hasanuddin No.41 Teluk Betung 35211, Bandar Lampung"
+Bandar Lampung,Lampung,KK LPO UNILA,Jl. Sumantri Brojonegoro No.2 Bandar Lampung 34145 A
+Bandar Lampung,Lampung,KK Tugu,"Jl. Hayam Wuruk No. 24 A, Tugu – Bandar Lampung"
+Bandar Lampung,Lampung,KK Unila,Jl. Soemantri Brojonegoro No. 10 Bandar Lampung
+Blambangan Umpu,Lampung,KK LPO Blambangan Umpu,Jl. Jend Sudirman No.27 Blambangan Umpu 34564
+Kalianda,Lampung,KK LPO Blambangan Umpu,Jl. Jend Sudirman No.27 Blambangan Umpu 34564
+Kotabumi,Lampung,KK LPO Kotabumi,Jln.Kantor Pos No.5 Kotabumi Lampung Utara
+Lampung Timur,Lampung,KK LPO Sekampung,Jl. Solo No.168 Sekampung 34182
+Lampung Timur,Lampung,KK LPO Way Jepara,Jl. Raya Way Jepara No. 546 Way Jepara 34196
+Liwa,Lampung,KK LPO Liwa,Jl. Raden Intan Sukamenanti Liwa Lampung Barat 34573
+Metro,Lampung,KK LPO Metro,Jln.A.Haris Nasution No.1 Metro
+Pringsewu,Lampung,KK LPO Pringsewu,Jl. Jend Sudirman No.21/63 Pringsewu 35373
+Bagan Batu,Riau,KK LPO Bagan Batu,"Jl. Lancang Kuning No.568 Bagan Batu, Rokan Hilir 28992, Riau"
+Bangkinang,Riau,KK Bangkinang,"Jl. Prof. HM. Yamin SH No. 283 Bangkinang, Kampar, Riau"
+Bangkinang,Riau,KK LPO Bangkinang,"Jl.Prof.M.Yamin No.131 Bangkinang, Kampar 28411, Riau"
+Dumai,Riau,KCP Dumai,Jl. Sukajadi No 63 Dumai 28812
+Dumai,Riau,KK LPO Dumai,Jl. Yos Sudarso No.3 Dumai – 28814
+Duri,Riau,KCP Duri,"Jl. Jend. Sudirman No. 39, Simpang Garoga Duri, Bengkalis, Riau 28884"
+Duri,Riau,KK LPO Duri,Jl. Sudirman No.1 Duri 28884
+Pekanbaru,Riau,KC Pekanbaru,Jl. Jend. Sudirman No. 393 Pekanbaru 28116
+Pekanbaru,Riau,KCP Marpoyan,"Jl. Kaharuddin Nasution No. 297 A, Simpang Tiga Pekanbaru "
+Pekanbaru,Riau,KCP Panam,"Komplek Pertokoan, Jl. H. Raden Soebrantas No. 88 Pekanbaru"
+Pekanbaru,Riau,KCP Rumbai,"Jl. Sekolah No. 09 A Limbungan – Rumbai, Pekanbaru 28261"
+Pekanbaru,Riau,KK Arengka,Jl. Sukarno Hatta No. 11 Pekanbaru
+Pekanbaru,Riau,KK Harapan Raya,Jl. Imam Munandar No. 72F Pekanbaru 
+Pekanbaru,Riau,KK Jl. Paus,Jl. Paus No. 02 Pekanbaru 28242 – Riau
+Pekanbaru,Riau,KK LPO Pekanbaru,Jl. Sudirman No.229 Pekanbaru – 28111
+Pekanbaru,Riau,KK LPO Pekanbaru Rumbai,Jl. Sekolah Kec.Rumbai Pekanbaru
+Pekanbaru,Riau,KK Riau,Jl. Riau No. 4A Pekanbaru
+Pekanbaru,Riau,KK Setiabudi,Jl. Setiabudi No. 98 Pekanbaru 26142 – Riau
+Pekanbaru,Riau,KCS Pekanbaru,"Jl Tuanku Tambusi Blok A No. 10 – 11, Labuh Baru Timur Pekanbaru 28291 "
+Rengat,Riau,KK LPO Rengat,"Jl. Arief Rahman Hakim No.34 Rengat, Indragiri Hulu 29312, Riau"
+Taluk Kuantan,Riau,KK LPO Taluk Kuantan,"Jl. Sudirman Taluk Kuantan, Kuantan Sengingi 29362"
+Tembilahan,Riau,KK LPO Tembilahan,"Jl. Hang Tuah No.3 Tembilahan, Indragiri Hilir 29200, Riau"
+Batam,Riau Kepulauan,KC Batam,"Jl. Engku Putri No. 1, Kel. Belian , Kec. Nongsa Batam Center , Batam"
+Batam,Riau Kepulauan,KCP Batam Center,"Jl. Sriwijaya Komplek Regency Park Lot, 29 Batam 29432"
+Batam,Riau Kepulauan,KCP Batuaji,"Ruko Muka Kuning Indah II, Blok E.2 No. 10 Batam"
+Batam,Riau Kepulauan,KCP Penuin,Komp. PT. Penuin Blok. F No.12 Lubuk Baja – Batam
+Batam,Riau Kepulauan,KCP Sekupang,"Komplek Pertokoan Cipta Blok DD No. 1 Jl. Gajah Mada Tiban Selatan, Batam "
+Batam,Riau Kepulauan,KCP Tanjung Uncang,Ruko Fanindo Blok D No. 9-10 Tanjung Uncang Batam
+Batam,Riau Kepulauan,KK Bengkong,Komp. Pusat Niaga Bengkong Mas Blok A No. 3 Batam
+Batam,Riau Kepulauan,KK Botania,"Komp. Botania Garden Blok B-2 No. 28 Batam Centre , Batam"
+Batam,Riau Kepulauan,KK LPO Batam,"Jl. Jend Sudirman-Batam Centre, Batam"
+Batam,Riau Kepulauan,KK LPO Batam Bengkong,"Komp. Ruko Aljabar Kelurahan Bengkong Harapan, Batam"
+Batam,Riau Kepulauan,KK LPO Batam IR Sutami,"Jl. Ir.Sutami No.01 Batam Sekupang 29422, Batam"
+Batam,Riau Kepulauan,KK LPO Batam Le Tiban,Komp Ruko Tiban Palapa Blok AA No.2 Batam
+Batam,Riau Kepulauan,KK LPO Batam Nagoya Plaza,"Komp. Nagoya Plaza No.2039-2040, Batam"
+Batam,Riau Kepulauan,KK LPO Batuampar/Pelita,Jl. Sriwijaya Pelita No.3 Batam
+Batam,Riau Kepulauan,KK LPO Muka Kuning,Jln. Muka Kuning Batam
+Batam,Riau Kepulauan,KK LPO Sungai Jodoh,Komp Jodoh Square Blok C No.38 Batam
+Batam,Riau Kepulauan,KK Panbil Mall,"Pertokoan Panbill Mall, Blok C2 No. 01 Panbill Batam"
+Batam,Riau Kepulauan,KK Puri Legenda,"Pertokoan Puri Legenda Blok D1 No. 08, Batam Center , Batam"
+Batam,Riau Kepulauan,KCS Batam,"Jl. Sriwijaya Komp. Regency Park Lot 29 Pelita – Batam 29432 , Batam"
+Batam,Riau Kepulauan,KLS Tiban,Komp Ruko Tiban Palapa Blok AA No.2 Batam
+Batam,Riau Kepulauan,KLS KC Batam,"Komp. Regency Park Lot 29 P. Batam, Jl. Sriwijaya, Batam 29432"
+Karimun,Riau Kepulauan,KCP Tanjung Balai Karimun,"Jl. Achmad Yani Sungai Kolong No. 8 Kel. Sungai Lakam, Kab. Tanjung Balai Karimun , Batam"
+Tanjung Uban,Riau Kepulauan,KK LPO Tanjung Uban,Jl. Hang Tuah No.2 Tanjung Uban 29152
+Tanjungpinang,Riau Kepulauan,KC Tanjung Pinang,Jl. D.I. Panjaitan Km. 9 Komplek Plaza Bintan Center Blok Bunga No. 9 – 12 Tanjung Pinang
+Tanjungpinang,Riau Kepulauan,KK LPO Tanjung Pinang,Jl. Brigjen Katamso No.122 Batam Tanjung Pinang 
+Tanjungpinang,Riau Kepulauan,KK Pamedan,Jl. Raja Ali Haji No. 05 (Komp. Ruko Pamedan) Tanjung Pinang
+Tanjungpinang,Riau Kepulauan,KLS Tanjung Pinang,Jl. Ali Haji No. 1-2 Tanjung Pinang 29124 
+Tanjungpinang,Riau Kepulauan,KLS KC Tanjung Pinang,"Jl. Ali Haji No : 1 , Tanjung Pinang 29124 , Batam"
+Agam,Sumatera Barat,KK LPO Lubuk Basung,"Jl. Dr Muh. Hatta Padang Baru Lubuk Basung, kab. Agam 26400"
+Bukittinggi,Sumatera Barat,KCP Bukit Tinggi,"Jl. Achmad Karim No.1 Bukit Tinggi, Sumatera Barat"
+Bukittinggi,Sumatera Barat,KK LPO Bukittinggi,Jl. Jendral Sudirman No.75 Bukittinggi 26100
+Padang,Sumatera Barat,KC Padang,Jl. HR. Rasuna Said No. 3 Padang – 25129
+Padang,Sumatera Barat,KCP Dr. Sutomo,Jl. Dr. Sutomo No. 37B Padang – 25123
+Padang,Sumatera Barat,KCP Kuranji,"Jl. Markisa Raya No. 33/35 Perumnas Kuranji, Padang 25157"
+Padang,Sumatera Barat,KCP Minang Plaza,"Komp. Pertokoan Minang Plaza lt.1, Jl. Prof. Dr. Hamka No. 2 Padang 25131"
+Padang,Sumatera Barat,KCP Pasar Raya Padang,Jl. M. Yamin No. 130 Pasar Raya – Padang
+Padang,Sumatera Barat,KCP Ulak Karang,"Jl. S. Parman No. 31 F, Padang (Jl. Dr. Hamka No. 2A Kav. 1-4 Padang 25131)"
+Padang,Sumatera Barat,KK Bandar Buat,Jl.Raya Bandar Buat Indarung No.28 Padang
+Padang,Sumatera Barat,KK LPO Padang,Jl. Bagindo Azis Chan No. 7 Padang
+Padang,Sumatera Barat,KK Lubuk Buaya,"Jl. Adinegoro No. 67 A Lubuk Buaya, Padang"
+Padang,Sumatera Barat,KK Siteba,Jl. Raya Siteba Padang 
+Padang Panjang,Sumatera Barat,KK LPO Padang Panjang,Jl. Sukarno Hatta No.1 Padang Panjang 27116
+Pariaman,Sumatera Barat,KK LPO Pariaman,Jl. Tugu Perjuangan’45 No.2 Pariaman 25500
+Pasaman,Sumatera Barat,KK LPO Lubuk Sikaping,"Jl. Jend Sudirman No.27 Lubuksikaping, kab. Pasaman 26313"
+Payakumbuh,Sumatera Barat,KK LPO Payakumbuh,Jl. Sudirman No.4 Payakumbuh 26211
+Sawahlunto,Sumatera Barat,KK LPO Sawah Lunto,Jl. Ahmad Yani No.1 SawahLunto 27411
+Sijunjung,Sumatera Barat,KK LPO Muaro Sijunjung,Jl. Muh.Yamin No.48 Muaro Sijunjung 27511
+Solok,Sumatera Barat,KK LPO Solok,Jl. Dt.perpatih Nan Sabatang No.17 A Solok 27322
+Tanah Datar,Sumatera Barat,KK LPO Batu Sangkar,Jl. Sutoyo No.1 Batusangkar 27211
+Baturaja,Sumatera Selatan,KK LPO Baturaja,Jl. Jendral A. Yani No.56 Baturaja
+Lahat,Sumatera Selatan,KK LPO Lahat,Jl. Emil Salim No.2 Lahat 31400 
+Lubuklinggau,Sumatera Selatan,KCP Lubuk Linggau,"Jl. Yos Sudarso No. 159 Lubuk Linggau, Sumatera Selatan"
+Muara Enim,Sumatera Selatan,KCP Muara Enim,"Jl. Jend. Sudirman No. 79 A Muara Enim, Sumatera Selatan"
+Muara Enim,Sumatera Selatan,KK LPO Gelumbang,"Jl.Raya Gelumbang No. 24 Gelumbang, Muara Enim 31171"
+Muara Enim,Sumatera Selatan,KK LPO Pendopo,"Jl. Cemara No.81-C Pendopo, Talang Ubi, Muara Enim 31200"
+Muara Enim,Sumatera Selatan,Kantor Layanan Setara KK Muara Enim,"Jl. Jenderal Sudirman No.99 Muara Enim, Sumatera Selatan"
+Musi Banyuasin,Sumatera Selatan,KK LPO Sekayu,"Jl. Merdeka No.249 Sekayu, kab. Musi Banyuasin"
+Ogan Ilir,Sumatera Selatan,KK LPO Tanjung Raja,"Jl. Merdeka No.136 Tanjung Raja, kab. Ogan Ilir 30661"
+OKI,Sumatera Selatan,KK LPO Kayu Agung,"Jl. Kantor Pos No.22 Kayu Agung, Ogan Komering Ilir 30614"
+OKU Timur,Sumatera Selatan,KK LPO Belitang,"Jl. Sudirman No.32 Belitang 32382, OKU Timur"
+Pagar Alam,Sumatera Selatan,KK LPO Pagar Alam,Jl. Kapten Sanap No.37 Pagar Alam 31500
+Palembang,Sumatera Selatan,KC Palembang,"Jl. Jend. Sudirman Km. 4,5 No. 125, Palembang 30128"
+Palembang,Sumatera Selatan,KCP Ilir Barat,"Jln. Radial No. 1, Kel. 24 Ilir, Ilir Barat II Palembang"
+Palembang,Sumatera Selatan,KCP Sako Kenten,Komp. Terminal Multi Wahana Ruko No. 2 Sako Kenten Palembang 30163
+Palembang,Sumatera Selatan,KK Alang Alang Lebar,"Komplek Ruko Tanah Mas Jl. Raya Palembang – Betung Km. 13 Alang Alang Lebar, Palembang"
+Palembang,Sumatera Selatan,KK Angkatan 45,Jln. Angkatan 45 No. 12 Palembang
+Palembang,Sumatera Selatan,KK Bandara Mas,Komp. Ruko Bandara Mas No. 126 Jln. Kol. H. Burlian Km. 9 Palembang
+Palembang,Sumatera Selatan,KK Bukit Besar,Jl. Jaksa Agung R Suprapto No. 1383 A Kec. Ilir Barat – Palembang
+Palembang,Sumatera Selatan,KK Dempo,"Jln. Letkol. Iskandar No. 452C Kel. 15 Ilir, Kec. Ilir Timur 1 Palembang"
+Palembang,Sumatera Selatan,KK Kenten,Ruko Prabu Indah Blok. A/7 Jl. MP. Mangkunegara Kenten – Palembang
+Palembang,Sumatera Selatan,KK Lemabang,Jln. Marthadinata No. 32 Kec. Ilir Timur II Palembang
+Palembang,Sumatera Selatan,KK LPO Kapten A. Rivai,Jl. Kapten A.Rivai No.63 Palembang 30135
+Palembang,Sumatera Selatan,KK LPO Palembang,Jl. Merdeka No. 3 Palembang
+Palembang,Sumatera Selatan,KK LPO Sukarami,Jl. Perindustrian KM.9 Palembang 30152
+Palembang,Sumatera Selatan,KK Plaju,Komp. Perum & Ruko Bumi Patra Sriwijaya Blok A-07 Jln. Jend. Ahmad Yani Kel. Tangga Takat Seb Ulu II Palembang
+Palembang,Sumatera Selatan,KCS Palembang,"Jl. Veteran No. 325 – 329, Palembang 30114"
+Palembang,Sumatera Selatan,KLS KC Palembang,"Jl. Jend. Sudirman Km. 4,5 No. 125 Palembang 30128 "
+Prabumulih,Sumatera Selatan,KK LPO Prabumulih,"Jl. Urip Sumoharjo No.821, Prabumulih"
+Balige,Sumatera Utara,KK LPO Balige,Jl. D.I. Panjaitan No.4 Balige – 22300
+Berastagi,Sumatera Utara,KK LPO Berastagi,Jl. Veteran No. 4 Berastagi 22156 
+Binjai,Sumatera Utara,KK Binjai,Jl. Jendral Sudirman No. 421 Binjai
+Binjai,Sumatera Utara,KK LPO BINJAI,Jl. Sutomo No.25 Binjai 20700 
+Deli Serdang,Sumatera Utara,KK LPO Berastagi,Jl. Veteran No. 4 Berastagi 22156 
+Gunungsitoli,Sumatera Utara,KK LPO Berastagi,Jl. Veteran No. 4 Berastagi 22156 
+Kisaran,Sumatera Utara,KK LPO Kisaran,Jl. Pahlawan No. 02 Kisaran – 21222
+Kota Pinang,Sumatera Utara,KK LPO Kota Pinang,"Jl. H.M.Yamin SH. No.2 Kota Pinang, Labugan Batu Selatan 21464 "
+Langkat,Sumatera Utara,KK LPO Pangkalan Brandan,Jl. Kartini No.3 Pangkalan Brandan 20857 
+Langkat,Sumatera Utara,KK LPO Stabat,"Jl. Palang Merah No.1 Stabat, kab. Langkat 20811"
+Medan,Sumatera Utara,KC Medan,Jl. Pemuda No. 10A Medan 20151
+Medan,Sumatera Utara,KCP Helvetia,"Jl. Mawar Raya No. 143 A, Perumnas Helvetia, Medan 20124"
+Medan,Sumatera Utara,KCP Iskandar Muda,"Jl. Iskandar Muda No : 39 F Medan Baru, Medan 20154 "
+Medan,Sumatera Utara,KCP Johor,"Jl. Jendral Besar A.H. Nasution No. A 9, Kel. Pangkalan Mansyur, Kec. Medan-Johor , Medan"
+Medan,Sumatera Utara,KCP M. Yamin,"JL. H.M Yamin, S.H No.398 A/564, Medan 20111"
+Medan,Sumatera Utara,KCP Medan Mall / Pusat Pasar,Jl. Pusat pasar No. 357/3A Medan 20212
+Medan,Sumatera Utara,KCP Pusat Pasar,Jl. Pusat Pasar No. 357 / 3A Medan 20212
+Medan,Sumatera Utara,KCP Setiabudi,Komp. Pertokoan Setiabudi Bisnis Center Jln. Setiabudi No. 244 Medan 20132 
+Medan,Sumatera Utara,KCP Simalingkar,"Jl. Karet Raya Blok C No. 59-61, Perumnas Simalingkar, Medan 20141"
+Medan,Sumatera Utara,KK Asia,Jl. Asia No. 167 B Medan
+Medan,Sumatera Utara,KK Belawan,Jl. Sumatera No. 80 Belawan – Medan
+Medan,Sumatera Utara,KK Denai,"Jln. Panglima Denai No. 32A Kel. Tegalsari III, Kec. Medan Area Medan"
+Medan,Sumatera Utara,KK Kampung Lalang,"Jln. Jend. Gatot Subroto Komp. Makro Business Center No. 4A Kel. Lalang, Kec. Medan Sungai Medan 20127"
+Medan,Sumatera Utara,KK Krakatau,"Jln. Gunung Krakatau No. 160A Kel. Glugur Darat I Kec. Medan Timur Medan 20239, Medan"
+Medan,Sumatera Utara,KK LPO Belawan,"Jl. Kapten R. Sulian No. 173 Belawan 20400 , Medan"
+Medan,Sumatera Utara,KK LPO Kampung Baru,Jl. Alfalah No.25 Medan 20146
+Medan,Sumatera Utara,KK LPO Medan,Jl. Pos No.1 Medan – 20000
+Medan,Sumatera Utara,KK LPO Medan Baru,Jl. Iskandar Muda No.77 Medan 20154 A
+Medan,Sumatera Utara,KK LPO Medan Helvetia,Jl. Tanjung Raya No.40 Medan Helvetia 20124 
+Medan,Sumatera Utara,KK LPO Medan Sei Sikambing,"Jl. Gatot Subroto No.158 Km.5,5 Medan Sei Sikambing 20123 , Medan"
+Medan,Sumatera Utara,KK LPO Pulau Brayan,Jl. Budi Kemuliaan No.1 Medan 20116
+Medan,Sumatera Utara,KK LPO USU,Jl.Universitas No.50 Kampus USU Medan 20155
+Medan,Sumatera Utara,KK Marelan,"Jln. Marelan Raya No. 287 F Kel. Rengas Pulau, Kec. Medan Marelan Medan 20255"
+Medan,Sumatera Utara,KK Petisah,"Jln. Jend. Gatot Subroto No. 111 Kel. Petisah Tengah, Kec. Medan Petisah Medan 20112"
+Medan,Sumatera Utara,KK Pulo Brayan,"Jl. Kol. Yos Soedarso No. 33 A / 197 A Kel Pulo Brayan Kota , Kec. Medan Barat – Medan Sumut"
+Medan,Sumatera Utara,KK Simpang Limun,Jln. Sakti Lubis No. 50 Kec. Medan Amplas Medan
+Medan,Sumatera Utara,KK Universitas Sumatera Utara,Jln. Universitas No. 46 Pintu 1 Kampus USU Kec. Medan Baru Medan
+Medan,Sumatera Utara,KK Utama,"Jln. Utama No. 9 Kel. Kota Matsum III, Kec. Medan Kota Medan 20215"
+Medan,Sumatera Utara,KCS Medan,Jl. Juanda No. 48 Medan 20157 
+Medan,Sumatera Utara,KLS KC Medan,Jl. Pemuda No. 10A Medan 20151
+Medan,Sumatera Utara,KLS Pusat Pasar,Jl. Pusat pasar No. 357/3A Medan 20212
+Padang Sidempuan,Sumatera Utara,KK LPO Padang Sidempuan,Jl. Merdeka No.05 Padang Sidempuan – 22700
+Pandan,Sumatera Utara,KK LPO Pandan,"Jl.Balam No.12 Pandan, kab. Tapanuli Tengah 22615"
+Panyambungan,Sumatera Utara,KK LPO Pangkalan Brandan,Jl. Kartini No.3 Pangkalan Brandan 20857 
+Panyambungan,Sumatera Utara,KK LPO Stabat,"Jl. Palang Merah No.1 Stabat, kab. Langkat 20811"
+Pematangsiantar,Sumatera Utara,KCP Pematang Siantar,Jl. Sutomo No. 14 Komp. SBC Pematang Siantar – 21132
+Pematangsiantar,Sumatera Utara,KK LPO Pematangsiantar,Jl. Sutomo No.02 Pematang Siantar – 21117
+Tantau Prapat,Sumatera Utara,KK LPO Rantau Prapat,Jl. W.R. Supratman No. 51 Rantau Prapat – 21411
+Sibolga,Sumatera Utara,KCP Sibolga,"Jl. M. Sutoyo No. 49, Kel. Pasar Baru, Kec. Sibolga Kota, Sibolga – Sumatera Utara"
+Sibolga,Sumatera Utara,KK LPO Sibolga,Jl. F.L. Tobing No.40 Sibolga – 22500 
+Simalungun,Sumatera Utara,KK LPO Parapat,Jl.Sisingamangaraja No.75 Parapat 21174
+Simalungun,Sumatera Utara,KK LPO Perdagangan,"Jl.Sisingamangaraja No.463 Perdagangan, kab. Simalungun 21184"
+Tanjungbalai,Sumatera Utara,KK LPO Tanjung Balai,Jl. Jend.Sudirman No. 11 Tanjung Balai – 21311
+Tarutung,Sumatera Utara,KK LPO Tarutung,"Jl.Sisingamangaraja No.200 Tarutung, kab. Tapanuli Utara 22411"
+Tebing Tinggi,Sumatera Utara,KCP Tebing Tinggi,"Jl. Jend Sudirman No. 242 A, Tebing Tinggi – Sumatera Utara "
+Tebing Tinggi,Sumatera Utara,KK LPO Tebing Tinggi,Jl. Dr. Sutomo No.36 Tebing Tinggi – 20632
+Benua Landjak,Kalimantan Barat,KK Lanjak,"Jl. Raya Lanjak , Lanjak, Kalimantan Barat"
+Kubu Raya,Kalimantan Barat,KK Padang Tikar,"Jl. Baburajak Timur no. 35 , PADANG TIKAR, Batu Ampar, kab. Kubu Raya, Kalimantan Barat"
+Kubu Raya,Kalimantan Barat,KK Teluk Pakedai,"Jl. Parit Tuan-tuan No 30 , Teluk Pakedai, Kab. Kubu Raya, Kalimantan Barat"
+Kubu Raya,Kalimantan Barat,KK Terentang,"Jl. Pelangi no. 19 , Terentang, Kab. Kubu Raya, Kalimantan Barat"
+Landak,Kalimantan Barat,KK Darit,"Jl. Pramuka No 08 Darit , kec. Menyuke, Kab. Landak, Kalimantan Barat"
+Landak,Kalimantan Barat,KK Menjalin,"Jl. Raya Menjalin Hulu , Menjalin, kab. Landak, Kalimantan Barat"
+Landak,Kalimantan Barat,KK LPO Ngabang,"Jl. Pasar lama No.34 Ngabang 78357, Kalimantan Barat"
+Mempawah,Kalimantan Barat,KK LPO Mempawah,"Jl. Gusti Muhamad Taufik No.59 Mempawah 78912, Kalimantan Barat"
+Ngabang,Kalimantan Barat,KK LPO Ngabang,"Jl. Pasar lama No.34 Ngabang 78357, Kalimantan Barat"
+Pontianak,Kalimantan Barat,KC Pontianak,"Jl. Imam Bonjol No. 29 Pontianak 78122 , Pontianak"
+Pontianak,Kalimantan Barat,KCP Jeruju,"Jl. Kom. Yos Sudarso No. 10, Jeruju – Pontianak 78113 , Pontianak"
+Pontianak,Kalimantan Barat,KK LPO Pontianak,"Jl. St. A. Rahman No.49 Pontianak 78116, Pontianak"
+Pontianak,Kalimantan Barat,KK Sungai Jawi Dalem,"Komplek Ruko No. 9 D Jl. Dr. Wahidin Sudiro Husodo – Pontianak , Pontianak"
+Pontianak,Kalimantan Barat,KK Sungai Jawi Dalem,"Komplek Ruko No. 9 D Jl. Dr. Wahidin Sudiro Husodo – Pontianak , Pontianak"
+Pontianak,Kalimantan Barat,KK Tanjung Hulu,"Komplek Ruko Karya Bakti No. E. 88 Jl. Yan Sabran, Kel. Tanjung Hulu – Pontianak , Pontianak"
+Pontianak,Kalimantan Barat,KK Toho,"Jl. Raya Toho , Toho, Pontianak"
+Putussibau,Kalimantan Barat,KK LPO Putussibau,"Jl. D.I.Panjaitan No.22 Putussibau, Kalimantan Barat"
+Sambas,Kalimantan Barat,KK LPO Tebas,"Jl. Raya Tebas No.143 Tebas 79161, Kalimantan Barat"
+Sambas,Kalimantan Barat,KK LPO Sambas,"Jl. Gusti Hamzah No.53 Sambas 79411, Kalimantan Barat"
+Sambas,Kalimantan Barat,KK LPO Pemangkas,"Jl. Uray Bawadi No.14 Pemangkat 79453, Kalimantan Barat"
+Sambas,Kalimantan Barat,KK Paloh,"Jl.Raya Liku No 34 , Paloh, Sambas, Kalimantan Barat"
+Sanggau,Kalimantan Barat,KK LPO Balai Karangan,"Jl. Al Gumis No.33 Balai Karangan, Sanggau, Kalimantan Barat"
+Sanggau,Kalimantan Barat,KK LPO Sanggau,"Jl. H Agus Salim No.42 Sanggau 78500 , Kalimantan Barat"
+Sekadau,Kalimantan Barat,KK LPO Sekadau,"Jl. Merdeka Barat No.116 Sekadau 79582, Kalimantan Barat"
+Singkawang,Kalimantan Barat,KK LPO Singkawang,"Jl. Pemuda No. 107 Singkawang 79111, Kalimantan Barat"
+Sintang,Kalimantan Barat,KK LPO Sintang,"Jl. S. Parman No. 90 Sintang , Kalimantan Barat"
+Banjarbaru,Kalimantan Selatan,KCP Banjarbaru,"Jl. Ahmad Yani Km 34,800 Rt 01 Rw 01 Banjarbaru 70711"
+Banjarbaru,Kalimantan Selatan,KK Landasan Ulin,"Jl. A.Yani Km 23 Banjar Baru, Kalimantan Selatan"
+Banjarbaru,Kalimantan Selatan,KK LPO Banjarbaru,Jl. Panglima Batur Timur No.25 Banjarbaru
+Banjarbaru,Kalimantan Selatan,KK LPO Landasan Ulin Tengah,"Jl. Jend .A.Yani KM 23,5 Landasan Ulin Banjarbaru"
+Banjarbaru,Kalimantan Selatan,KK Sultan Adam,"Jl. Raya Sultam Adam Banjar Baru, Kalimantan Selatan"
+Banjarbaru,Kalimantan Selatan,KLS Banjarbaru,"Jl. A. Yani Timur Km 34.800 Rt/Rw 01/01 Kel. Banjarbaru Kota, Banjarbaru 70711"
+Banjarmasin,Kalimantan Selatan,KC Banjarmasin,Jl. R.E. Martadinata No. 4 Banjarmasin 70111
+Banjarmasin,Kalimantan Selatan,KCP Kayutangi,Jl. Brigjen. H. Hasan Basri C1 Kel. Pangeran Banjarmasin 70124
+Banjarmasin,Kalimantan Selatan,KK A. Yani,Komp. Pertokoan Mitra No. 7 Jl. Jend. Ahmad Yani Km. 2 Banjarmasin – Kalimantan Selatan
+Banjarmasin,Kalimantan Selatan,KK Banjarmasin HKSN,"Jl HKSN Kuin Utara , Banjarmasin"
+Banjarmasin,Kalimantan Selatan,KK LPO Banjarmasin,Jl. Lambung mangkurat No.19 Banjarmasin
+Banjarmasin,Kalimantan Selatan,KK Sungai Andai,"Jln. Padat Karya No. 5 Kel. Sungai Andai, Kec. Banjarmasin Utara Banjarmasin 70121"
+Banjarmasin,Kalimantan Selatan,KK Veteran,"Jln. Veteran No. 184 Kel. Melayu, Kec. Banjarmasin Timur Banjarmasin 70232"
+Banjarmasin,Kalimantan Selatan,KCS Banjarmasin,Jl. Jend. A. Yani Km. 5 Komplek Kencana No. 1 Banjarmasin 70249
+Banjarmasin,Kalimantan Selatan,KLS KC Banjarmasin,Jl. R.E. Martadinata No. 4 Banjarmasin 70111
+Batulicin,Kalimantan Selatan,KCP Batulicin,"Jl. Kampung Baru No. 12 Batu Licin, Tanah Bumbu"
+Batulicin,Kalimantan Selatan,KK LPO Batulicin,Jl. Transmigrasi Rt.32 No.80 Kampung Baru Batulicin 72171
+Kotabaru,Kalimantan Selatan,KK LPO Kotabaru,Jl. P. Kusuma Negara No.6 Kota Baru
+Martapura,Kalimantan Selatan,KK Martapura,"Jl. A. Yani Km. 37,5 Martapura, Kab. Banjar,  Kalimantan Selatan 70613"
+Padang Batung,Kalimantan Selatan,Kantor KPC Padang Batung,"Jl.H.Hasan Basri No.37 , Padang Batung, kab. Hulu Sungai Selatan, Kalimantan Selatan"
+Paringin,Kalimantan Selatan,KK LPO Paringin,Jl. A.Yani No.04 Paringin Kabupaten Balangan 71600
+Tabalong,Kalimantan Selatan,KCP Tanjung,"Jl. Ir. Pangeran H. Muhammad Noor No, 1-2, Ds. Pembatasan Kec. Murung Kuda , Kab. Tabalong – Kalimantan Selatan"
+Barito Timur,Kalimantan Tengah,KK LPO Tamiyang Layang,"Jl. A Yani No.24 Tamiang Layang 73600, Kalimantan Tengah"
+Buntok,Kalimantan Tengah,KK LPO BUNTOK,"Jl. Uria Hapas, Buntok, Barito Selatan 73700 Kalimantan Tengah"
+Muara Teweh,Kalimantan Tengah,KK LPO MUARA TEWEH,"Jl. Suropati No.11 Muara teweh 73811, Kalimantan Tengah"
+Nangabulik,Kalimantan Tengah,KK LPO NANGABULIK,"Jl. JC Rangkap Nangabulik 74162, Kalimantan Tengah"
+Palangkaraya,Kalimantan Tengah,KC Palangkaraya,"Jl. Diponegoro No.23 Palangkaraya , Palangkaraya"
+Palangkaraya,Kalimantan Tengah,KK A.Yani,"Ruko Kav.02 Jl.A.Yani No.08 Palangkaraya 73111, Palangkaraya"
+Palangkaraya,Kalimantan Tengah,KK LPO Palangkaraya,"Jl.Imam Bonjol No.03 Palangkaraya 73111, Palangkaraya"
+Palangkaraya,Kalimantan Tengah,KK Rajawali,"Jl. Rajawali No. 11 Palangka Raya – Kalteng , Palangkaraya"
+Pangkalan Bun,Kalimantan Tengah,KK LPO Pangkalan Bun,"Jl. Sultan Syahrir No.26 Pangkalan Bun 74100, Kalimantan Tengah"
+Sampit,Kalimantan Tengah,KCP SAMPIT,"Jl. MT. Haryono No. 60 D – Sampit 75328 , Kalimantan Tengah"
+Sukamara,Kalimantan Tengah,KK LPO Sukamara,"Jl. Cilik Riwut No. 57 Sukamara 74172, Kalimantan Tengah"
+Balikpapan,Kalimantan Timur,KC Balikpapan,"Jl. Jend. Sudirman No. 141 , Balikpapan"
+Balikpapan,Kalimantan Timur,KCP Batu Ampar,"Jl. Jend. A. Yani No. 16, Karang Jati, Balikpapan 76123"
+Balikpapan,Kalimantan Timur,KK Balikpapan Baru,Jl. MT Haryono Balikpapan
+Balikpapan,Kalimantan Timur,KK Baru Ujung,"Kampungbaru Ujung , Baru Ujung, Balikpapan"
+Balikpapan,Kalimantan Timur,KK Gunung Guntur,"Jl.P.Antarasi RT.07 No.54 , GUNUNG GUNTUR, Kota Balikpapan, Kalimantan Timur – 76122 "
+Balikpapan,Kalimantan Timur,KK Karang Joang,"Jl.Soekarno Hatta Km.13 , KARANG JOANG, Balikpapan Utara"
+Balikpapan,Kalimantan Timur,KK LPO Balikpapan,"Jl. Jend Sudiman No. 31 Kel. Klandasan Ilir, Balikpapan"
+Balikpapan,Kalimantan Timur,KK LPO BPP.Permai,"Komp.Balikpapan permai F2 No.18 Jl. Jend. Sudirman 76111, Balikpapan"
+Balikpapan,Kalimantan Timur,KK LPO Manggar Kalimantan,Jl. Mulawarman Manggar Balikpapan 76116
+Balikpapan,Kalimantan Timur,KK Muara Rapak,"Jl.soekarno Hatta Km.1 RT.19 , Muara Rapak, Balikpapan"
+Balikpapan,Kalimantan Timur,KK Sepinggan,Jl. Marsma Iswahyudi No. 488B Balikpapan
+Balikpapan,Kalimantan Timur,KCS Balikpapan,"Jl. Letjend Suprato No 18, Balikpapan"
+Bontang,Kalimantan Timur,KCP Bontang,"Jl. Brigjen Katamso No. 8 Bontang , Kaltim – 75313"
+Bontang,Kalimantan Timur,KK LPO Bontang,Jl. MT. Haryono No.03 Bontang 75311
+Paser,Kalimantan Timur,KK Muara Komam,"Jl.Negara Km.17 RT.6 No.50 , Muara Komam, Paser, Kalimantan Timur"
+Samarinda,Kalimantan Timur,KC Samarinda,"Jl. RE. Martadinata No. 01 Samarinda 75127 , Samarinda"
+Samarinda,Kalimantan Timur,KCP Mall Lembuswana,"Komp. Mall Lembuswana, Blok. C.11 Jl. S.Parman,Samarinda , Samarinda"
+Samarinda,Kalimantan Timur,KK LPO Loa Janan,"Jl. Soekarno Hatta Loa Janan Samarinda 75391, Samarinda"
+Samarinda,Kalimantan Timur,KK LPO Palaran,Jl. S Parman Rawa Makmur Palaran Samarinda 75243
+Samarinda,Kalimantan Timur,KK LPO Samarinda,Jl. Gajah Mada No. 15 Samarinda 75121
+Samarinda,Kalimantan Timur,KK LPO Samarinda Temindung,Jl. Lambung Mangkurat No.71 Samarinda 75117
+Samarinda,Kalimantan Timur,KK Samarinda Seberang,"Jl. Bung Tomo No. 57 D Samarinda Seberang , Samarinda"
+Tanjung Redep,Kalimantan Timur,KK LPO Tanjung Redep,Jl. Pemuda No.354 Tanjung Redeb 77311
+Tenggarong,Kalimantan Timur,KK LPO Tenggarong,"Jl. Ahmad Yani No.05 Tenggarong 75512, Samarinda"
+Tenggarong,Kalimantan Timur,KK Tenggarong Seberang,"Jl.Mulawarman No.25 Kec.Tenggarong Seberang, Kutai Kartanegara"
+Nunukan,Kalimantan Utara,KK LPO Nunukan,Jl.Pelabuhan Lama Nunukan 77482
+Tanjung Selor,Kalimantan Utara,KK LPO Tanjung Selor,Jl Skip II Tanjung Selor 73400
+Tarakan,Kalimantan Utara,KCP Tarakan,Jl. Yos Sudarso No. 6 Tarakan 77113 Kalimantan Utara
+Tarakan,Kalimantan Utara,KK LPO Tarakan,Jl. Jend Sudirman No.12 Tarakan 77111
+Gorontalo,Gorontalo,KC Gorontalo,"Jl. Prof. HB. Yasin No. 55, Kel Limba U2, Kota Selatan – Gorontalo"
+Gorontalo,Gorontalo,KK LPO Gorontalo,Jl. Ahmad Yani No.16 Gorontalo
+Gorontalo,Gorontalo,KK Palma,"Jl. Palma No. 341, Kec. Kota Barat – Gorontalo 96138"
+Mamuju,Sulawesi Barat,KCP Mamuju,"Jl. KS Tubun No. 27 Mamuju, Sulawesi Barat"
+Barru,Sulawesi Selatan,KK LPO BARRU,Jl. Hasanuddin No.7 Barru 90711
+Bulukumba,Sulawesi Selatan,KCP Bulukumba,Jln. Dr. Sam Ratulangi Ruko No. 10 Bulukumba
+Enrekang,Sulawesi Selatan,KK LPO ENREKANG,Jl. Iman Bonjol No.16 Enrekang 91700
+Jeneponto,Sulawesi Selatan,KK LPO JENEPONTO,Jl.Pasewang 44 Jeneponto 97800
+Makassar,Sulawesi Selatan,KC Makassar,Jl. Kajaolalido No. 4 Makassar 90111 
+Makassar,Sulawesi Selatan,KCP Antang,Jl. Antang Raya No. 4 Makassar 90235 
+Makassar,Sulawesi Selatan,KCP Makassar panakukkang,Jl. Boulevard Ruko Jasper II No. 41 Panakukang – Makassar 90222
+Makassar,Sulawesi Selatan,KCP Panakukang,Jl. Hertasning Blok I No. 2 Makassar 90222
+Makassar,Sulawesi Selatan,KCP RSUP Wahidin,Komp. RSUP Dr. Wahidin Jl. Perintis Kemerdekaan Km. 10 Makassar 90246
+Makassar,Sulawesi Selatan,KCP Sultan Alauddin,"Jl. Sultan Alauddin No.206 C, Makassar 90221 , Makassar"
+Makassar,Sulawesi Selatan,KCP Tamalanrea,"Komplek Bumi Tamalanrea Permai Jl. Tamalanrea Raya No. 28 -30 Makassar 90245 , Makassar"
+Makassar,Sulawesi Selatan,KK Bukit Baruga,"Ruko Malino 2 C 26 Kawasan Bukit Baruga – Antang , Makassar"
+Makassar,Sulawesi Selatan,KK Cendrawasih,"Jl. Cendrawasih No. 121 Makassar , Makassar"
+Makassar,Sulawesi Selatan,KK Daeng Sirua,Jln. Abd. Daeng Sirua No. 188 Makassar
+Makassar,Sulawesi Selatan,KK DEANG SIRUA,"Jl. Abd. Daeng Sirua No. 188 , Makassar"
+Makassar,Sulawesi Selatan,KK Kima,Jl. Kima Raya II No. 31 Komp. Kawasan Industri Makassar
+Makassar,Sulawesi Selatan,KK Kumala,Jl. Daeng Tata No. 63 A Makassar
+Makassar,Sulawesi Selatan,KK LPO Makassar,Jl. Slamet Riyadi No.10 Makassar
+Makassar,Sulawesi Selatan,KK LPO Mandai,Jl. Pettarani Makassar 90000
+Makassar,Sulawesi Selatan,KK LPO Pettarani,Jl. AP.Pettrarani Makassar 90222
+Makassar,Sulawesi Selatan,KK LPO Sungguminasa,"Jl. Malombassang No.91 , Makassar"
+Makassar,Sulawesi Selatan,KK LPO Ujung Pandang Mamajang,"Jl. Onta Baru Ujung Pandang 90134 , Makassar"
+Makassar,Sulawesi Selatan,KK Maccini,Jl. Urip Sumoharjo No. 16 B Makassar
+Makassar,Sulawesi Selatan,KK Pasar Butung,Jln. Tentara Pelajar No. 2A Makassar
+Makassar,Sulawesi Selatan,KK Pasar Sentral,Jl. Andalas No. 176 A Makassar
+Makassar,Sulawesi Selatan,KK Rappocini,Jln. Veteran Selatan No. 219 B Makassar
+Makassar,Sulawesi Selatan,KK Sudiang,"Ruko No. 5 Jl. Perintis Kemerdekaan KM, 18-19 Sudiang , Makassar"
+Makassar,Sulawesi Selatan,KK Sultan Hasanuddin,Jln. Sultan Hasanuddin No. 1 Makassar
+Makassar,Sulawesi Selatan,Payment Point BP2IP Barombong,"Jln. Permandian Alam No. 1 Makassar Komplek BP2IP Barombong, Makassar"
+Makassar,Sulawesi Selatan,Payment Point PCC Dr. Wahidin Sudirohusodo,"Komplek RS. Private Care Center Dr. Wahidin Sudirohusodo Jln. Perintis Kemerdekaan Makassar, Makassar"
+Makassar,Sulawesi Selatan,Payment Point Unhas,"Kampus Universitas Hasanuddin Jln. Perintis Kemerdekaan No. 10 Makassar, Makassar"
+Makassar,Sulawesi Selatan,KCS Makassar,"Jl. Slamet Riyadi No. 7 A Kel. Bulogading, Kec. Ujung pandang 90111 , Makassar"
+Makassar,Sulawesi Selatan,KCPS MAKASSAR PANAKUKKANG,Jl. Boulevard Ruko Jasper II No. 41 Panakukang – Makassar 90222
+Makassar,Sulawesi Selatan,KLS KC MAKASSAR,"Jl. Kajaolalido No. 4 Makassar 90111 , Makassar"
+Makassar,Sulawesi Selatan,KLS RSUP WAHIDIN,"Komp. RSUP Dr. Wahidin, Jl. Perintis Kemerdekaan Km. 10 Makassar 90246"
+Maros,Sulawesi Selatan,KCP Maros,Komp Ruko Anjali No. 9-10 Jl. Jend Sudirman – Maros Sulawesi Selatan 90511 
+Maros,Sulawesi Selatan,KK LPO MAROS,Jl. Abbas Dg Siallu No. 2 Maros 90500 
+Palopo,Sulawesi Selatan,KCP Palopo,"Jl. Mangga – Pasar Sentral Palopo, Palopo 91922"
+Palopo,Sulawesi Selatan,KK LPO PALOPO,Jl. A.Yani No.15 Palopo
+Pangkep,Sulawesi Selatan,KK LPO PANGKAJENE,"Jl. Hasanudin 39 Pangkajene 90600, Makassar"
+Pangkep,Sulawesi Selatan,KK LPO BUNGORO,Jl.Terawang No.1 Komp.Tonasa II Bungoro 90651
+Parepare,Sulawesi Selatan,KCP Pare-Pare,Jl. Adi Makkasau No 115-117 Pare-Pare
+Parepare,Sulawesi Selatan,KK LPO PARE-PARE,Jl. Karaengburane No.1 Pare-pare
+Parepare,Sulawesi Selatan,KLS PARE PARE,Jl. Andi Isa No. 1 Pare-pare Sulawesi Selatan
+Parepare,Sulawesi Selatan,KLS pare-pare,Jl. Adi Makkasau No 115-117 Pare-Pare 
+Pinrang,Sulawesi Selatan,KK LPO PINRANG,Jl. Dr. Sutomo No.4 Pinrang 91200
+Rantepao,Sulawesi Selatan,KK LPO RANTEPAO,Jl. Ahmad Yani No.111 Rantepao 91890
+Sungguminasa,Sulawesi Selatan,KCP Sungguminasa,"Jl. Andi Mallombassang No. 71 Sungguminasa, Kab. Gowa"
+Sungguminasa,Sulawesi Selatan,Payment Point RSUD Gowa,"Jln. Mesjid Raya No. 30 Sungguminasa, Gowa"
+Takalar,Sulawesi Selatan,KK LPO TAKALAR,Jl. Kemakmuran Takalar 92200
+Watampone,Sulawesi Selatan,KCP Watampone,Jl. Ahmad Yani No. 27 Watampon
+Watampone,Sulawesi Selatan,KK LPO WATAMPONE,Jl. M.Husni Thamrin No.7 Watampone
+Watampone,Sulawesi Selatan,KLS WATAMPONE,"Jl. Ahmad Yani No. 27, Watampone"
+Watansoppeng,Sulawesi Selatan,KK LPO WATANSOPPENG,Jl. Veteran No.31 Watansoppeng 90800
+Luwuk,Sulawesi Tengah,KK LPO LUWUK,"Jl. Brigjen Katamso No. 2 Luwuk, kab. Banggal  94711"
+Palu,Sulawesi Tengah,KC PALU,"Jl. Jend. Sudirman No. 2, Palu 94111 "
+Palu,Sulawesi Tengah,KK LPO PALU,Jl. Muh Yamin No.1 Palu 94000
+Toli Toli,Sulawesi Tengah,KK LPO TOLI-TOLI,Jl. Jend Ahmad Yani No.09 Toli-Toli 94500
+Bau Bau,Sulawesi Tenggara,KK LPO BAU-BAU,Jl. Murhum No. 56 Bau Bau 93700
+Kendari,Sulawesi Tenggara,KC Kendari,"Jl. A. Yani , Komplek A. Yani Square Blok. A6-7 Kendari 93117"
+Kendari,Sulawesi Tenggara,KK Andounohu,"Komp. Ruko Jl. Poros Onduonohu – Kendari , Kendari"
+Kendari,Sulawesi Tenggara,KK LPO Kendari,"Jl. Sam Ratulangi No. 79 Kendari , Kendari"
+Kolaka,Sulawesi Tenggara,KK LPO KOLAKA,Jl. Pahlawan No.17 Kabupaten Kolaka 93500
+Bitung,Sulawesi Utara,KCP Bitung,"Jl. Sam Ratulangi No. 3 Bitung, Pekadodan, Bitung"
+Bitung,Sulawesi Utara,KK LPO BITUNG,Jl. Sam Ratulangi Bitung
+Kotamobagu,Sulawesi Utara,KK LPO KOTAMOBAGU,Jl. D.I. Panjaitan No.244 Kotamobagu
+Manado,Sulawesi Utara,KC Manado,Jl. Wolter Monginsidi No. 56 Manado 95115
+Manado,Sulawesi Utara,KK LPO Manado,Jl. Sam Ratulangi No.23 Menado
+Manado,Sulawesi Utara,KK Paal Dua,"Kampus Unsrat, Kelurahan Bahu Manado – 95115"
+Manado,Sulawesi Utara,KK Pasar 45,"Jln. Walanda Maramis No. 43 Kel. Pinaesaan, Kec. Tikala, Manado"
+Manado,Sulawesi Utara,KK RSUP R. D. Kandau,"Komplek Perkantoran RSUP Dr. Kandou Jl. Raya Tanawangko No. 56 Malalayang I Manado , Manado"
+Tahuna,Sulawesi Utara,KK LPO TAHUNA,"Jl. Raramenus No.1 Tahuna , Sangihe, Sulawesi Utara"
+Tondano,Sulawesi Utara,KK Unima,"Komplek Kampus Universitas Negeri Manado Kel. Maesa, Kec. Tondano Kab. Minahasa, Sulawesi Utara"
+Badung,Bali,KCP Kuta,"Jl.Kalianget No.12 Kuta, kab. Badung, Bali 80361"
+Badung,Bali,KK Dalung,"Jl. Raya Padang Luwih No. 173 Ds. Dalung, Kec. Kuta Utara Kab. Badung, Bali "
+Badung,Bali,KK LPO Kuta,"Jl. Selamat Kuta, kab. Badung, Bali 80361"
+Badung,Bali,KK Nusa Dua,"Ruko Nusa Dua Square Jln. By Pass Ngurah Rai No. 262 Jimbaran, Kuta Selatan, kab. Badung, Bali"
+Bangli,Bali,KK LPO Bangli,"Jl. Kusuma Yuda No.17 Bangli 80611, Bali"
+Buleleng,Bali,KCP Singaraja,Jl. A. Yani No. 94 C Kab. Buleleng – Bali 
+Buleleng,Bali,KK LPO Banjar Singaraja,"Jl. Seririt Singaraja 81152, kab. Bulelebg, Bali"
+Buleleng,Bali,KK LPO Seririt,"Jl. Sudirman No.51 Seririt 81153, kab. Buleleng, Bali"
+Buleleng,Bali,KK LPO Singaraja,"Jl. Gajah Mada No.156 Singaraja 81100, kab. Buleleng, Bali"
+Denpasar,Bali,KC Denpasar,"Jl. Dewi sartika No. 2 Denpasar 80114, Bali"
+Denpasar,Bali,KCP Gatot Subroto,"Jln. Gatot Subroto No. 408 Denpasar, Bali"
+Denpasar,Bali,KCP Gunung Agung,"Jl. Gunung Agung No. 146 Blok 8 Denpasar 80119 , Bali"
+Denpasar,Bali,KCP Surapati,"Jln. Surapati No. 13 Denpasar 80232, Bali"
+Denpasar,Bali,KK Monang-Maning,"Jln. Gunung Batukaru No. 60 Perumnas Monang Maning, Denpasar Barat, Bali"
+Denpasar,Bali,KK Sesetan,"Jln. Raya Sesetan No. 356B Denpasar, Bali"
+Denpasar,Bali,KK Sunset Road,Jln. Sunset Road Kav.5 No. 89 Denpasar
+Gianyar,Bali,KK Gianyar,Jl. Airlangga No. 17 x Gianyar Bali
+Gianyar,Bali,KK LPO Gianyar,Jl. Abimayu No.4 Gianyar 80511
+Gianyar,Bali,KK LPO Sukawati,"Jl. Raya Sukawati, Gianyar, Bali  80582"
+Gianyar,Bali,KK LPO Ubud,"Jl. Jembawan No. 1 Ubud, Gianyar, Bali 80571"
+Jembrana,Bali,KK LPO Negara,"Jl. Ngurah Rai No.76 Negara, Jembrana, Bali  82217"
+Karangasem,Bali,KK LPO Amlapura,"Jl. Gatot Subroto No.29 Amlapura 80811, Bali"
+Tabanan,Bali,KK LPO Tabanan,"Jl. Pahlawan No. 4 Tabanan 82113, Bali"
+Tabanan,Bali,KK Tabanan,"Jl. Raya Baypass No. 19 Kediri – Tabanan, Bali"
+Bima,NTB,KK LPO Bima,Jl. Gajah Mada Bima 84113
+Mataram,NTB,KC Mataram,"Jl. Pejanggik No. 99-101 Cakranegara, Mataram 83121"
+Mataram,NTB,KCP Airlangga,"Jl. Airlangga No. 1B, Mataram "
+Mataram,NTB,KK LPO Mataram,"Jl. Sriwijaya Mataram 83126 , Mataram"
+Mataram,NTB,KK LPO Mataram RSU,Jl. Pariwisata Mataram 83114
+Praya,NTB,KK Praya,"Jl. Jend. Sudirman Praya , Kab. Lombok Tengah , Mataram"
+Selong,NTB,KK LPO Selong,Jl. Prof. Moh. Yamin No. 61 Selong Lombok Timur
+Sumbawa Besar,NTB,KK LPO Sumbawa Besar,Jl. Garuda No. 101 Sumbawa Besar
+Ende,NTT,KK LPO Ende,Jl. Basuki Rahmat No. 15 Ende 86318
+Kalabahi,NTT,KK LPO Kalabahi,Jl. Dr. Soetomo No.6 Kalabahi 85813
+Kupang,NTT,KC Kupang,Jl. Jend. Sudirman No. 87 Kupang 85119
+Kupang,NTT,KK LPO Kupang,JL. Palapa No. 1 Oebobo Kupang 85111
+Waingapu,NTT,KK LPO Waingapu,Jl. DR. Soetomo No. 21 Waingapu 87111
+Ambon,Maluku,KC Ambon,Jl. Diponegoro No. 75B Ambon
+Ambon,Maluku,KK IAIN Ambon,Jl. Tarmidzi Taher – Batu Merah Atas – Ambon
+Ambon,Maluku,KK LPO AMBON,Jl.Raya Patimura No.20 Ambon 97126
+Tual,Maluku,KK LPO TUAL,Jl.Pahlawan Revolusi No.17 Tual 97600
+Ternate,Maluku Utara,KC Ternate,JL. Zainal Abidin Syah No. 41 Ternate – Maluku Utara 
+Biak,Papua,KK LPO BIAK,JL. Muhammad Yamin No.59 Biak (98100)
+Merauke,Papua,KK LPO MERAUKE,JL. Brawijaya No.168 Merauke (99600)
+Timika,Papua,KK LPO TIMIKA,"JL. Yos Sudarso No.17 Timika (99900) , Jayapura"
+Jayapura,Papua,KC JAYAPURA,Jl. Koti No. 22 Jayapura 99111
+Jayapura,Papua,KCP WAENA,"Jl. Raya Sentani No. 54 Waena, Jayapura 99358"
+Jayapura,Papua,KK LPO ABEPURA,"JL. Raya Sentani No.1 Abepura (99351), Jayapura"
+Jayapura,Papua,KK LPO JAYAPURA,JL. Koti No.3 Jayapura (99000
+Jayapura,Papua,KK Sentani,"Jl. Raya Sentani No. 58 Sentani Kota Jayapura , Jayapura"
+Manokwari,Papua Barat,KCP Manokwari,"Jl. Pahlawan No. 3B Kec. Manokwari Barat, Kab. Manokwari – Papua Barat"
+Manokwari,Papua Barat,KK LPO MANOKWARI,Jl.Siliwangi No.28 Manokwari 98300
+Sorong,Papua Barat,KK LPO SORONG,JL. Ahmad Yani No.19 Sorong (98400)
+Sorong,Papua Barat,KCP SORONG,"Jl. Pramuka No. 4 Kec. Sorong Barat , Kodya. Sorong – Papua Barat "
